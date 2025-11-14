@@ -1,4 +1,4 @@
-# Mobile Robot DRL Navigation
+# Mobile Robot DRL Navigation (수정 예정)
 
 ### A ROS2 framework for DRL autonomous navigation on mobile robots with LiDAR.
 <p float="left">
