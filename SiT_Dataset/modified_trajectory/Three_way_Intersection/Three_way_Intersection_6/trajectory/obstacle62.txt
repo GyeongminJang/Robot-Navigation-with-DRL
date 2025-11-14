@@ -1,0 +1,14 @@
+34 Pedestrian 62 -28.71 20.63
+35 Pedestrian 62 -28.72 20.62
+36 Pedestrian 62 -28.72 20.62
+37 Pedestrian 62 -28.77 20.59
+38 Pedestrian 62 -28.83 20.56
+39 Pedestrian 62 -28.93 20.49
+40 Pedestrian 62 -29.02 20.43
+41 Pedestrian 62 -29.04 20.41
+42 Pedestrian 62 -29.05 20.39
+43 Pedestrian 62 -29.07 20.42
+44 Pedestrian 62 -29.09 20.45
+45 Pedestrian 62 -29.06 20.52
+46 Pedestrian 62 -29.03 20.59
+47 Pedestrian 62 -29.00 20.65

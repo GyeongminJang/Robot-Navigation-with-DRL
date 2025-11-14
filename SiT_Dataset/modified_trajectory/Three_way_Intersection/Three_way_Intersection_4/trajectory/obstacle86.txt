@@ -1,0 +1,16 @@
+88 Pedestrian 86 -41.53 39.20
+89 Pedestrian 86 -41.68 39.21
+90 Pedestrian 86 -41.84 39.22
+91 Pedestrian 86 -42.01 39.20
+92 Pedestrian 86 -42.17 39.17
+93 Pedestrian 86 -42.29 39.19
+94 Pedestrian 86 -42.42 39.20
+95 Pedestrian 86 -42.49 39.21
+96 Pedestrian 86 -42.56 39.22
+97 Pedestrian 86 -42.68 39.26
+98 Pedestrian 86 -42.79 39.31
+99 Pedestrian 86 -42.93 39.33
+100 Pedestrian 86 -43.08 39.34
+101 Pedestrian 86 -43.20 39.34
+102 Pedestrian 86 -43.32 39.34
+103 Pedestrian 86 -43.45 39.33

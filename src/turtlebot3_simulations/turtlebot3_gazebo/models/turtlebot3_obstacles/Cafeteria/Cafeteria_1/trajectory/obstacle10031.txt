@@ -1,0 +1,16 @@
+182 Pedestrian 10031 1.67 -1.97
+183 Pedestrian 10031 1.64 -1.96
+184 Pedestrian 10031 1.60 -1.95
+185 Pedestrian 10031 1.57 -1.94
+186 Pedestrian 10031 1.53 -1.94
+187 Pedestrian 10031 1.50 -1.93
+188 Pedestrian 10031 1.46 -1.92
+189 Pedestrian 10031 1.43 -1.92
+190 Pedestrian 10031 1.39 -1.91
+191 Pedestrian 10031 1.36 -1.90
+192 Pedestrian 10031 1.32 -1.90
+193 Pedestrian 10031 1.29 -1.89
+194 Pedestrian 10031 1.25 -1.88
+195 Pedestrian 10031 1.22 -1.88
+196 Pedestrian 10031 1.18 -1.87
+197 Pedestrian 10031 1.15 -1.86

@@ -1,0 +1,6 @@
+194 Pedestrian 12 19.65 1.20
+195 Pedestrian 12 19.72 1.23
+196 Pedestrian 12 19.79 1.25
+197 Pedestrian 12 19.86 1.27
+198 Pedestrian 12 19.93 1.30
+199 Pedestrian 12 19.99 1.32

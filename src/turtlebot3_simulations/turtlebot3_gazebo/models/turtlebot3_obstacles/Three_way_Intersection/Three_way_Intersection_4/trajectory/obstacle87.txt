@@ -1,0 +1,12 @@
+88 Pedestrian 87 -41.86 38.47
+89 Pedestrian 87 -41.98 38.47
+90 Pedestrian 87 -42.09 38.47
+91 Pedestrian 87 -42.25 38.45
+92 Pedestrian 87 -42.40 38.42
+93 Pedestrian 87 -42.51 38.44
+94 Pedestrian 87 -42.61 38.46
+95 Pedestrian 87 -42.68 38.47
+96 Pedestrian 87 -42.75 38.49
+97 Pedestrian 87 -42.88 38.51
+98 Pedestrian 87 -43.01 38.53
+99 Pedestrian 87 -43.14 38.55

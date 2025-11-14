@@ -1,0 +1,12 @@
+14 Pedestrian 1035 17.21 -8.27
+15 Pedestrian 1035 17.21 -8.27
+16 Pedestrian 1035 17.21 -8.27
+17 Pedestrian 1035 17.21 -8.27
+18 Pedestrian 1035 17.21 -8.27
+19 Pedestrian 1035 17.21 -8.27
+20 Pedestrian 1035 17.21 -8.27
+21 Pedestrian 1035 17.21 -8.27
+22 Pedestrian 1035 17.21 -8.27
+23 Pedestrian 1035 17.21 -8.27
+24 Pedestrian 1035 17.21 -8.27
+25 Pedestrian 1035 17.21 -8.27

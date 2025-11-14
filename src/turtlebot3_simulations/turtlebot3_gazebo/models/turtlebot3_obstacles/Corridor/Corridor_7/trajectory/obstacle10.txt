@@ -1,0 +1,16 @@
+146 Pedestrian 10 59.78 13.36
+147 Pedestrian 10 59.77 13.40
+148 Pedestrian 10 59.77 13.45
+149 Pedestrian 10 59.76 13.49
+150 Pedestrian 10 59.76 13.52
+151 Pedestrian 10 59.76 13.52
+152 Pedestrian 10 59.75 13.53
+153 Pedestrian 10 59.74 13.63
+154 Pedestrian 10 59.72 13.73
+155 Pedestrian 10 59.70 13.85
+156 Pedestrian 10 59.68 13.98
+157 Pedestrian 10 59.66 14.11
+158 Pedestrian 10 59.64 14.25
+159 Pedestrian 10 59.61 14.38
+160 Pedestrian 10 59.59 14.52
+161 Pedestrian 10 59.57 14.65

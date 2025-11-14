@@ -1,0 +1,14 @@
+6 Pedestrian 21704 64.62 55.69
+7 Pedestrian 21704 64.44 55.41
+8 Pedestrian 21704 64.27 55.13
+9 Pedestrian 21704 64.14 54.90
+10 Pedestrian 21704 64.01 54.66
+11 Pedestrian 21704 63.98 54.51
+12 Pedestrian 21704 63.96 54.36
+13 Pedestrian 21704 64.08 54.35
+14 Pedestrian 21704 64.20 54.33
+15 Pedestrian 21704 64.52 54.48
+16 Pedestrian 21704 64.84 54.64
+17 Pedestrian 21704 65.35 54.97
+18 Pedestrian 21704 65.87 55.30
+19 Pedestrian 21704 66.39 55.63

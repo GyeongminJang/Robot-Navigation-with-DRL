@@ -1,0 +1,12 @@
+154 Pedestrian 12 -12.29 -5.10
+155 Pedestrian 12 -12.29 -5.10
+156 Pedestrian 12 -12.29 -5.10
+157 Pedestrian 12 -12.29 -5.10
+158 Pedestrian 12 -12.29 -5.10
+159 Pedestrian 12 -12.29 -5.10
+160 Pedestrian 12 -12.29 -5.10
+161 Pedestrian 12 -12.29 -5.10
+162 Pedestrian 12 -12.29 -5.10
+163 Pedestrian 12 -12.29 -5.10
+164 Pedestrian 12 -12.29 -5.10
+165 Pedestrian 12 -12.29 -5.10

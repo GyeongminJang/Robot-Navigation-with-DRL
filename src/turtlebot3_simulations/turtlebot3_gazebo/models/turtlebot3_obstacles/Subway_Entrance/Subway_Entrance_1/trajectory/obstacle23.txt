@@ -1,0 +1,16 @@
+0 Pedestrian 23 65.75 -11.58
+1 Pedestrian 23 65.91 -11.72
+2 Pedestrian 23 66.07 -11.85
+3 Pedestrian 23 66.01 -11.69
+4 Pedestrian 23 65.94 -11.53
+5 Pedestrian 23 66.03 -11.72
+6 Pedestrian 23 66.12 -11.92
+7 Pedestrian 23 66.15 -12.00
+8 Pedestrian 23 66.17 -12.08
+9 Pedestrian 23 66.22 -12.13
+10 Pedestrian 23 66.27 -12.19
+11 Pedestrian 23 66.41 -12.10
+12 Pedestrian 23 66.55 -12.01
+13 Pedestrian 23 66.72 -12.08
+14 Pedestrian 23 66.90 -12.16
+15 Pedestrian 23 67.08 -12.23

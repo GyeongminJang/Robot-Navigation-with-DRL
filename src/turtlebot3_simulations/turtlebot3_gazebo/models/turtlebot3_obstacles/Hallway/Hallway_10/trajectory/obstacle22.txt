@@ -1,0 +1,10 @@
+0 Pedestrian 22 6.63 20.18
+1 Pedestrian 22 6.78 20.22
+2 Pedestrian 22 6.93 20.26
+3 Pedestrian 22 7.05 20.29
+4 Pedestrian 22 7.18 20.33
+5 Pedestrian 22 7.28 20.38
+6 Pedestrian 22 7.37 20.43
+7 Pedestrian 22 7.44 20.50
+8 Pedestrian 22 7.51 20.57
+9 Pedestrian 22 7.58 20.64

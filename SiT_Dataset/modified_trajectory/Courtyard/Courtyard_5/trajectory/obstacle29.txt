@@ -1,0 +1,8 @@
+192 Pedestrian 29 30.83 1.61
+193 Pedestrian 29 30.95 1.44
+194 Pedestrian 29 31.08 1.27
+195 Pedestrian 29 31.10 1.26
+196 Pedestrian 29 31.12 1.24
+197 Pedestrian 29 30.99 1.03
+198 Pedestrian 29 30.87 0.82
+199 Pedestrian 29 30.75 0.60

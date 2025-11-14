@@ -1,0 +1,6 @@
+0 Pedestrian 45 87.45 -24.50
+1 Pedestrian 45 87.47 -24.50
+2 Pedestrian 45 87.49 -24.50
+3 Pedestrian 45 87.55 -24.55
+4 Pedestrian 45 87.62 -24.60
+5 Pedestrian 45 87.68 -24.65

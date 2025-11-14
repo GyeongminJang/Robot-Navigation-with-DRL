@@ -1,0 +1,14 @@
+0 Pedestrian 13 147.39 124.32
+1 Pedestrian 13 147.42 124.43
+2 Pedestrian 13 147.44 124.54
+3 Pedestrian 13 147.51 124.65
+4 Pedestrian 13 147.58 124.76
+5 Pedestrian 13 147.60 124.89
+6 Pedestrian 13 147.61 125.03
+7 Pedestrian 13 147.60 125.11
+8 Pedestrian 13 147.59 125.19
+9 Pedestrian 13 147.72 125.30
+10 Pedestrian 13 147.85 125.40
+11 Pedestrian 13 147.89 125.58
+12 Pedestrian 13 147.92 125.76
+13 Pedestrian 13 147.95 125.94

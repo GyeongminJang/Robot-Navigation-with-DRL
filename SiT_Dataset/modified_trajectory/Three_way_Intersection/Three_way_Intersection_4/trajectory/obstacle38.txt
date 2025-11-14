@@ -1,0 +1,14 @@
+0 Pedestrian 38 -27.38 -1.59
+1 Pedestrian 38 -27.40 -1.71
+2 Pedestrian 38 -27.43 -1.84
+3 Pedestrian 38 -27.52 -1.91
+4 Pedestrian 38 -27.61 -1.99
+5 Pedestrian 38 -27.68 -2.10
+6 Pedestrian 38 -27.75 -2.21
+7 Pedestrian 38 -27.84 -2.31
+8 Pedestrian 38 -27.93 -2.41
+9 Pedestrian 38 -28.04 -2.49
+10 Pedestrian 38 -28.15 -2.57
+11 Pedestrian 38 -28.33 -2.58
+12 Pedestrian 38 -28.52 -2.59
+13 Pedestrian 38 -28.70 -2.60

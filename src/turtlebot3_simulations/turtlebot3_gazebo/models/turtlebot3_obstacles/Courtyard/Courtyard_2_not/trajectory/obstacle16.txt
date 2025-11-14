@@ -1,0 +1,6 @@
+194 Pedestrian 16 -10.92 -4.71
+195 Pedestrian 16 -10.91 -4.70
+196 Pedestrian 16 -10.90 -4.68
+197 Pedestrian 16 -10.89 -4.67
+198 Pedestrian 16 -10.88 -4.65
+199 Pedestrian 16 -10.87 -4.64

@@ -1,0 +1,8 @@
+0 Pedestrian 14 -39.52 40.89
+1 Pedestrian 14 -39.63 40.95
+2 Pedestrian 14 -39.73 41.00
+3 Pedestrian 14 -39.79 41.10
+4 Pedestrian 14 -39.86 41.19
+5 Pedestrian 14 -39.90 41.31
+6 Pedestrian 14 -39.95 41.42
+7 Pedestrian 14 -39.99 41.54

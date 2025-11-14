@@ -1,0 +1,10 @@
+190 Pedestrian 21 -30.09 2.51
+191 Pedestrian 21 -30.13 2.60
+192 Pedestrian 21 -30.17 2.70
+193 Pedestrian 21 -30.21 2.77
+194 Pedestrian 21 -30.25 2.84
+195 Pedestrian 21 -30.30 2.89
+196 Pedestrian 21 -30.34 2.94
+197 Pedestrian 21 -30.38 2.98
+198 Pedestrian 21 -30.43 3.02
+199 Pedestrian 21 -30.47 3.05

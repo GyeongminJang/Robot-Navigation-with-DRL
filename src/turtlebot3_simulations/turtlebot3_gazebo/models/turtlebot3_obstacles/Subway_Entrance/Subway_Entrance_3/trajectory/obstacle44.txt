@@ -1,0 +1,10 @@
+0 Pedestrian 44 85.51 -4.91
+1 Pedestrian 44 85.52 -4.80
+2 Pedestrian 44 85.54 -4.69
+3 Pedestrian 44 85.54 -4.64
+4 Pedestrian 44 85.55 -4.58
+5 Pedestrian 44 85.53 -4.46
+6 Pedestrian 44 85.52 -4.33
+7 Pedestrian 44 85.54 -4.33
+8 Pedestrian 44 85.56 -4.33
+9 Pedestrian 44 85.58 -4.33

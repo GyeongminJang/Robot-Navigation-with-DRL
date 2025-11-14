@@ -1,0 +1,10 @@
+72 Pedestrian 503 76.02 -15.05
+73 Pedestrian 503 76.04 -14.99
+74 Pedestrian 503 76.07 -14.92
+75 Pedestrian 503 76.11 -14.80
+76 Pedestrian 503 76.15 -14.68
+77 Pedestrian 503 76.21 -14.61
+78 Pedestrian 503 76.27 -14.55
+79 Pedestrian 503 76.32 -14.48
+80 Pedestrian 503 76.37 -14.40
+81 Pedestrian 503 76.43 -14.33

@@ -1,0 +1,8 @@
+0 Pedestrian 7 -9.43 -79.63
+1 Pedestrian 7 -9.42 -79.68
+2 Pedestrian 7 -9.42 -79.73
+3 Pedestrian 7 -9.42 -79.78
+4 Pedestrian 7 -9.42 -79.82
+5 Pedestrian 7 -9.41 -79.87
+6 Pedestrian 7 -9.41 -79.92
+7 Pedestrian 7 -9.41 -79.97

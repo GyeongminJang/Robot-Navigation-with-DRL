@@ -1,0 +1,16 @@
+0 Pedestrian 26 85.72 0.41
+1 Pedestrian 26 85.72 0.41
+2 Pedestrian 26 85.72 0.41
+3 Pedestrian 26 85.72 0.41
+4 Pedestrian 26 85.72 0.41
+5 Pedestrian 26 85.72 0.41
+6 Pedestrian 26 85.72 0.40
+7 Pedestrian 26 85.72 0.38
+8 Pedestrian 26 85.71 0.36
+9 Pedestrian 26 85.71 0.34
+10 Pedestrian 26 85.71 0.32
+11 Pedestrian 26 85.70 0.29
+12 Pedestrian 26 85.70 0.27
+13 Pedestrian 26 85.70 0.25
+14 Pedestrian 26 85.69 0.23
+15 Pedestrian 26 85.69 0.21

@@ -1,0 +1,12 @@
+60 Pedestrian 10017 -2.73 -3.84
+61 Pedestrian 10017 -2.73 -3.84
+62 Pedestrian 10017 -2.73 -3.84
+63 Pedestrian 10017 -2.73 -3.84
+64 Pedestrian 10017 -2.73 -3.84
+65 Pedestrian 10017 -2.73 -3.84
+66 Pedestrian 10017 -2.73 -3.84
+67 Pedestrian 10017 -2.73 -3.84
+68 Pedestrian 10017 -2.73 -3.84
+69 Pedestrian 10017 -2.73 -3.84
+70 Pedestrian 10017 -2.73 -3.84
+71 Pedestrian 10017 -2.73 -3.84

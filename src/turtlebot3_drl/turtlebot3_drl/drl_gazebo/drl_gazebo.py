@@ -36,6 +36,14 @@ from ..drl_environment.drl_environment import ARENA_LENGTH, ARENA_WIDTH, ENABLE_
 from ..common.settings import ENABLE_TRUE_RANDOM_GOALS
 
 NO_GOAL_SPAWN_MARGIN = 0.3 # meters away from any wall
+
+# # --- 후보 로봇 위치 리스트 ---
+# ROBOT_START_POSITIONS = [
+#     (2.5, 5.0, -1.57),
+#     (4.0, -6.0, 3.14),
+#     # 필요한 만큼 추가
+# ]
+
 class DRLGazebo(Node):
     def __init__(self):
         super().__init__('drl_gazebo')
@@ -56,7 +64,14 @@ class DRLGazebo(Node):
         print(f"running on stage: {self.stage}, dynamic goals enabled: {ENABLE_DYNAMIC_GOALS}")
 
         self.prev_x, self.prev_y = -1, -1
-        self.goal_x, self.goal_y = 0.5, 0.0
+        self.goal_x, self.goal_y = 0.0, 1.0
+
+        # # --- 로봇 모델 파일 경로 (환경에 맞게 수정) ---
+        # self.robot_entity_name = 'turtlebot3'
+        # self.robot_model_path = '/home/janggm/turtlebot3_drlnav/src/turtlebot3_simulations/turtlebot3_gazebo/models/turtlebot3_burger/model.sdf'
+        # self.robot_entity = open(self.robot_model_path, 'r').read()
+
+        self.robot_pose = Pose()
 
         """************************************************************
         ** Initialise ROS publishers, subscribers and clients
@@ -96,6 +111,33 @@ class DRLGazebo(Node):
         self.goal_pose_pub.publish(goal_pose)
         self.spawn_entity()
 
+    # # --- 로봇 위치 랜덤화 함수 ---
+    # def reset_robot_position(self):
+    #     x, y, yaw = random.choice(ROBOT_START_POSITIONS)
+    #     # 1. 기존 로봇 삭제
+    #     del_req = DeleteEntity.Request()
+    #     del_req.name = self.robot_entity_name
+    #     while not self.delete_entity_client.wait_for_service(timeout_sec=1):
+    #         self.get_logger().info('delete_entity service not available, waiting...')
+    #     self.delete_entity_client.call_async(del_req)
+    #     time.sleep(1)  # 삭제가 완료될 때까지 대기
+
+    #     # 2. 새로운 위치로 로봇 스폰
+    #     spawn_req = SpawnEntity.Request()
+    #     spawn_req.name = self.robot_entity_name
+    #     spawn_req.xml = self.robot_entity
+    #     pose = Pose()
+    #     pose.position.x = x
+    #     pose.position.y = y
+    #     pose.position.z = 0.0
+    #     pose.orientation.z = math.sin(yaw / 2)
+    #     pose.orientation.w = math.cos(yaw / 2)
+    #     spawn_req.initial_pose = pose
+    #     while not self.spawn_entity_client.wait_for_service(timeout_sec=1):
+    #         self.get_logger().info('spawn_entity service not available, waiting...')
+    #     self.spawn_entity_client.call_async(spawn_req)
+    #     time.sleep(1)  # 스폰 완료 대기
+
     def task_succeed_callback(self, request, response):
         self.delete_entity()
         if ENABLE_TRUE_RANDOM_GOALS:
@@ -112,6 +154,7 @@ class DRLGazebo(Node):
     def task_fail_callback(self, request, response):
         self.delete_entity()
         self.reset_simulation()
+        # self.reset_robot_position()  # --- 에피소드 실패 시 로봇 위치 랜덤화 --
         if ENABLE_TRUE_RANDOM_GOALS:
             self.generate_random_goal()
             print(f"fail: reset the environment, (random) goal pose: {self.goal_x:.2f}, {self.goal_y:.2f}")
@@ -177,23 +220,51 @@ class DRLGazebo(Node):
         tries = 0
 
         while ((abs(self.prev_x - self.goal_x) + abs(self.prev_y - self.goal_y)) < 2):
-            if self.stage == 11:
-                # --- Define static goal positions here ---
-                goal_pose_list = [[0.0, 0.0], [0.0, 6.5], [5.0, 5.5], [-2.5, -6.0], [3.0, -4.0], [6.0, -1.0]]
+            if self.stage == 1:
+                # --- Hallway Partial: Define static goal positions here ---
+                goal_pose_list = [[5.0, 4.0], [2.5, 4.0], [0.0, 4.0], [5.0, 2.0], [2.5, 2.0], [0.0, 2.0],
+                                  [5.0, 0.0], [2.5, 0.0], [0.0, 0.0], [5.0, -2.0], [2.5, -2.0], [0.0, -2.0],
+                                  [5.0, -4.0], [2.5, -4.0], [0.0, -4.0], [5.0, -6.0], [2.5, -6.0], [0.0, -6.0],
+                                  [4.0, -8.0], [2.5, -8.0], [0.0, -8.0], [-2.0, -4.0], [-4.0, -4.0], [-2.0, -6.0], 
+                                  [-4.0, -6.0], [-2.0, -8.0], [-4.0, -8.0]]
                 index = random.randrange(0, len(goal_pose_list))
                 self.goal_x = float(goal_pose_list[index][0])
                 self.goal_y = float(goal_pose_list[index][1])
-            elif self.stage == 8 or self.stage == 9 or self.stage == 12:
-                # --- Define static goal positions here ---
-                goal_pose_list = [[2.0, 2.0], [2.0, 1.5], [2.0, -0.5], [2.0, -1.0], [2.0, -2.0], [1.3, 1.0],
-                                    [1.0, 0.3], [1.0, -2.0], [0.3, -1.0],  [0.0, 2.0], [0.0, -1.0], [-1.0, 1.0],
-                                        [-1.0, -1.2], [-2.0, 1.0], [-2.2, 0.0], [-2.0, -2.2], [-2.4, 2.4]]
+
+            elif self.stage == 2:
+                # --- Hallway Anywhere : Define static goal positions here ---
+                goal_pose_list = [[15.0, 0.0], [15.0, -1.0], [15.0, 8.0],
+                                  [17.5, 0.0], [17.5, 1.0], [17.5, -5.0],
+                                  [20.0, 0.0], [20.0, 2.0], [20.0, 9.0],
+                                  [20.0, -1.0], [20.0, -3.0], [20.0, -5.0], [20.0, -7.0],
+                                  [22.5, 0.0], [22.5, 1.0], [22.5, 3.0], [22.5, 5.0], [22.5, 7.0], [22.5, 9.0],
+                                  [22.5, -1.0], [22.5, -3.0], [22.5, -5.0], [22.5, -7.0],
+                                  [25.0, 0.0], [25.0, 1.0], [25.0, 3.0], [25.0, 5.0], [25.0, 7.0], [25.0, 9.0],
+                                  [25.0, -1.0], [25.0, -3.0], [25.0, -5.0], [25.0, -7.0],
+                                  [30.0, 0.0], [30.0, 2.0], [30.0, -2.0],
+                                  ]
                 index = random.randrange(0, len(goal_pose_list))
                 self.goal_x = float(goal_pose_list[index][0])
                 self.goal_y = float(goal_pose_list[index][1])
-            elif self.stage not in [4, 5, 7]:
-                self.goal_x = random.randrange(-15, 16) / 10.0
-                self.goal_y = random.randrange(-15, 16) / 10.0
+
+            elif self.stage == 3:
+                # --- Lobby Anywhere : Define static goal positions here ---
+                goal_pose_list = [[0.0, 0.0], [3.0, 0.0], [5.0, 0.0], [7.0, 0.0], [-2.0, 0.0], [-4.0, 0.0], [-6.0, 0.0],
+                                  [0.0, 3.0], [2.0, 3.0], [5.0, 3.0], [8.0, 3.0], [-2.0, 3.0], [-4.0, 3.0],
+                                  [0.0, 6.0], [3.0, 6.0], [6.0, 6.0], [10.0, 6.0], [-2.0, 6.0], [-4.0, 6.0], [-7.0, 6.0],
+                                  [0.0, 8.0], [3.0, 8.0], [6.0, 8.0], [10.0, 8.0], [-3.0, 8.0], [-6.0, 8.0], [-10.0, 8.0],
+                                  [4.0, 10.0], [7.0, 10.0], [10.0, 10.0], [-4.0, 10.0], [-7.0, 10.0], [-10.0, 10.0],
+                                  [-7.0, 12.0], [6.0, 12.0],
+                                  [3.0, -2.0], [5.0, -2.0], [7.0, -2.0], [10.0, -2.0], [-3.0, -2.0], [-5.0, -2.0], [-7.0, -2.0],
+                                  [0.0, -5.0], [3.0, -5.0], [6.0, -5.0], [10.0, -5.0], [13.0, -5.0], [-3.0, -5.0], [-5.0, -5.0], [-7.0, -5.0],
+                                  [0.0, -8.0], [2.0, -8.0], [-2.0, -8.0],
+                                  [1.0, -10.0], [-1.0, -10.0],
+                                  [1.0, -11.0],
+                                 ]
+                index = random.randrange(0, len(goal_pose_list))
+                self.goal_x = float(goal_pose_list[index][0])
+                self.goal_y = float(goal_pose_list[index][1])
+
             else:
                 # --- Define static goal positions here ---
                 goal_pose_list = [[1.0, 0.0], [2.0, -1.5], [0.0, -2.0], [2.0, 2.0], [0.8, 2.0],
@@ -234,7 +305,8 @@ class DRLGazebo(Node):
         self.spawn_entity_client.call_async(req)
 
     def get_obstacle_coordinates(self):
-        tree = ET.parse(os.getenv('DRLNAV_BASE_PATH') + '/src/turtlebot3_simulations/turtlebot3_gazebo/models/turtlebot3_drl_world/inner_walls/model.sdf')
+        # map에 맞게 변경할 필요가 있음
+        tree = ET.parse(os.getenv('DRLNAV_BASE_PATH') + '/src/turtlebot3_simulations/turtlebot3_gazebo/models/turtlebot3_new_world/Lobby/model.sdf')
         root = tree.getroot()
         obstacle_coordinates = []
         for wall in root.find('model').findall('link'):

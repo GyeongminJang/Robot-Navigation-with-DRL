@@ -1,0 +1,14 @@
+186 Pedestrian 39 -0.42 20.97
+187 Pedestrian 39 -0.42 21.00
+188 Pedestrian 39 -0.42 21.03
+189 Pedestrian 39 -0.42 21.06
+190 Pedestrian 39 -0.42 21.08
+191 Pedestrian 39 -0.43 21.07
+192 Pedestrian 39 -0.43 21.07
+193 Pedestrian 39 -0.46 21.10
+194 Pedestrian 39 -0.48 21.13
+195 Pedestrian 39 -0.45 21.10
+196 Pedestrian 39 -0.42 21.07
+197 Pedestrian 39 -0.45 21.09
+198 Pedestrian 39 -0.49 21.10
+199 Pedestrian 39 -0.53 21.12

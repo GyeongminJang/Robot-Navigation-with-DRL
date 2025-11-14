@@ -1,0 +1,10 @@
+0 Pedestrian 6 16.87 26.99
+1 Pedestrian 6 16.84 27.06
+2 Pedestrian 6 16.81 27.14
+3 Pedestrian 6 16.79 27.22
+4 Pedestrian 6 16.78 27.30
+5 Pedestrian 6 16.80 27.38
+6 Pedestrian 6 16.81 27.46
+7 Pedestrian 6 16.85 27.54
+8 Pedestrian 6 16.89 27.63
+9 Pedestrian 6 16.92 27.71

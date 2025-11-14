@@ -1,0 +1,10 @@
+174 Pedestrian 889 -54.01 -139.44
+175 Pedestrian 889 -53.92 -139.51
+176 Pedestrian 889 -53.83 -139.57
+177 Pedestrian 889 -53.81 -139.58
+178 Pedestrian 889 -53.80 -139.59
+179 Pedestrian 889 -53.82 -139.59
+180 Pedestrian 889 -53.83 -139.58
+181 Pedestrian 889 -53.82 -139.58
+182 Pedestrian 889 -53.81 -139.59
+183 Pedestrian 889 -53.80 -139.60

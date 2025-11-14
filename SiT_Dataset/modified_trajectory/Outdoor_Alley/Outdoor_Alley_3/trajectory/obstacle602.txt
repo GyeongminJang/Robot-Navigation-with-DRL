@@ -1,0 +1,14 @@
+172 Pedestrian 602 73.62 -2.31
+173 Pedestrian 602 73.54 -2.30
+174 Pedestrian 602 73.46 -2.29
+175 Pedestrian 602 73.45 -2.27
+176 Pedestrian 602 73.45 -2.26
+177 Pedestrian 602 73.46 -2.21
+178 Pedestrian 602 73.48 -2.16
+179 Pedestrian 602 73.49 -2.10
+180 Pedestrian 602 73.50 -2.05
+181 Pedestrian 602 73.51 -2.03
+182 Pedestrian 602 73.51 -2.02
+183 Pedestrian 602 73.51 -2.04
+184 Pedestrian 602 73.51 -2.05
+185 Pedestrian 602 73.51 -2.07

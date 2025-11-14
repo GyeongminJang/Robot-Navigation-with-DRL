@@ -1,0 +1,16 @@
+184 Pedestrian 106 -7.86 -24.46
+185 Pedestrian 106 -7.83 -24.36
+186 Pedestrian 106 -7.80 -24.25
+187 Pedestrian 106 -7.79 -24.17
+188 Pedestrian 106 -7.77 -24.09
+189 Pedestrian 106 -7.80 -24.06
+190 Pedestrian 106 -7.82 -24.03
+191 Pedestrian 106 -7.88 -24.03
+192 Pedestrian 106 -7.94 -24.04
+193 Pedestrian 106 -8.00 -24.00
+194 Pedestrian 106 -8.06 -23.95
+195 Pedestrian 106 -8.12 -23.85
+196 Pedestrian 106 -8.17 -23.75
+197 Pedestrian 106 -8.21 -23.63
+198 Pedestrian 106 -8.26 -23.50
+199 Pedestrian 106 -8.31 -23.38

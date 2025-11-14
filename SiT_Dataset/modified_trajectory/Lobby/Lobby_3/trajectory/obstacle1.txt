@@ -1,0 +1,16 @@
+184 Pedestrian 1 5.51 13.59
+185 Pedestrian 1 5.51 13.59
+186 Pedestrian 1 5.51 13.58
+187 Pedestrian 1 5.51 13.58
+188 Pedestrian 1 5.51 13.58
+189 Pedestrian 1 5.50 13.58
+190 Pedestrian 1 5.50 13.58
+191 Pedestrian 1 5.50 13.58
+192 Pedestrian 1 5.50 13.58
+193 Pedestrian 1 5.49 13.58
+194 Pedestrian 1 5.49 13.59
+195 Pedestrian 1 5.49 13.58
+196 Pedestrian 1 5.49 13.58
+197 Pedestrian 1 5.48 13.58
+198 Pedestrian 1 5.48 13.58
+199 Pedestrian 1 5.48 13.58

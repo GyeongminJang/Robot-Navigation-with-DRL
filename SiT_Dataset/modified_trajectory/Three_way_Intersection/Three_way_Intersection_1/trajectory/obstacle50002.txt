@@ -1,0 +1,6 @@
+194 Pedestrian 50002 39.25 8.97
+195 Pedestrian 50002 39.55 9.89
+196 Pedestrian 50002 39.86 10.81
+197 Pedestrian 50002 40.08 11.61
+198 Pedestrian 50002 40.30 12.42
+199 Pedestrian 50002 40.53 13.22

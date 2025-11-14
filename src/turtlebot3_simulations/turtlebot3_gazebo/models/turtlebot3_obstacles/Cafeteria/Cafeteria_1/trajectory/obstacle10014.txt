@@ -1,0 +1,14 @@
+184 Pedestrian 10014 -22.05 3.93
+185 Pedestrian 10014 -22.05 3.92
+186 Pedestrian 10014 -22.06 3.91
+187 Pedestrian 10014 -22.06 3.89
+188 Pedestrian 10014 -22.06 3.88
+189 Pedestrian 10014 -22.07 3.86
+190 Pedestrian 10014 -22.07 3.85
+191 Pedestrian 10014 -22.08 3.84
+192 Pedestrian 10014 -22.08 3.82
+193 Pedestrian 10014 -22.08 3.81
+194 Pedestrian 10014 -22.09 3.80
+195 Pedestrian 10014 -22.09 3.78
+196 Pedestrian 10014 -22.10 3.77
+197 Pedestrian 10014 -22.10 3.76

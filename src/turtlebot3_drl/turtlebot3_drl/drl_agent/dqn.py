@@ -9,7 +9,7 @@ from .off_policy_agent import OffPolicyAgent, Network
 LINEAR = 0
 ANGULAR = 1
 
-POSSIBLE_ACTIONS = [[0.3, -1.0], [0.3, -0.5], [1.0, 0.0], [0.3, 0.5], [0.3, 1.0]]
+POSSIBLE_ACTIONS = [[0.3, -1.0], [0.4, -0.5], [0.5, -0.25], [1.0, 0.0], [0.5, 0.25], [0.4, 0.5], [0.3, 1.0]]
 
 # Reference for network structure: https://arxiv.org/pdf/2102.10711.pdf
 # https://github.com/hanlinniu/turtlebot3_ddpg_collision_avoidance/blob/main/turtlebot_ddpg/scripts/original_ddpg/ddpg_network_turtlebot3_original_ddpg.py
@@ -82,3 +82,5 @@ class DQN(OffPolicyAgent):
         if self.iteration % self.target_update_frequency == 0:
             self.hard_update(self.actor_target, self.actor)
         return 0, loss.mean().detach().cpu()
+    
+    

@@ -1,0 +1,8 @@
+0 Pedestrian 33 1.80 5.45
+1 Pedestrian 33 1.88 5.48
+2 Pedestrian 33 1.96 5.50
+3 Pedestrian 33 1.93 5.65
+4 Pedestrian 33 1.91 5.80
+5 Pedestrian 33 1.97 5.93
+6 Pedestrian 33 2.03 6.05
+7 Pedestrian 33 2.08 6.17

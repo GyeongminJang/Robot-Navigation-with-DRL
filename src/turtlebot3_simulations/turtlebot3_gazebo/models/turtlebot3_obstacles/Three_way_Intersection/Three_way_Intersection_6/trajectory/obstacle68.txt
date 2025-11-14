@@ -1,0 +1,14 @@
+62 Pedestrian 68 -7.74 -7.83
+63 Pedestrian 68 -7.89 -7.84
+64 Pedestrian 68 -8.03 -7.85
+65 Pedestrian 68 -8.14 -7.87
+66 Pedestrian 68 -8.26 -7.89
+67 Pedestrian 68 -8.34 -7.92
+68 Pedestrian 68 -8.43 -7.95
+69 Pedestrian 68 -8.50 -7.98
+70 Pedestrian 68 -8.57 -8.01
+71 Pedestrian 68 -8.63 -8.03
+72 Pedestrian 68 -8.69 -8.04
+73 Pedestrian 68 -8.75 -8.04
+74 Pedestrian 68 -8.81 -8.04
+75 Pedestrian 68 -8.86 -8.03

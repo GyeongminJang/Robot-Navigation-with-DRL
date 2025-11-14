@@ -1,0 +1,12 @@
+30 Pedestrian 201 10.18 17.65
+31 Pedestrian 201 10.18 17.61
+32 Pedestrian 201 10.18 17.58
+33 Pedestrian 201 10.14 17.57
+34 Pedestrian 201 10.11 17.57
+35 Pedestrian 201 10.06 17.59
+36 Pedestrian 201 10.00 17.62
+37 Pedestrian 201 10.02 17.62
+38 Pedestrian 201 10.03 17.62
+39 Pedestrian 201 10.10 17.60
+40 Pedestrian 201 10.17 17.57
+41 Pedestrian 201 10.24 17.55

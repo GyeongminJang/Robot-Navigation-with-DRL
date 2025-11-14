@@ -1,0 +1,7 @@
+34 Pedestrian 200 -17.93 3.11
+38 Pedestrian 200 -17.85 3.15
+39 Pedestrian 200 -17.84 3.15
+40 Pedestrian 200 -17.83 3.16
+41 Pedestrian 200 -17.83 3.16
+42 Pedestrian 200 -17.83 3.16
+43 Pedestrian 200 -17.83 3.16

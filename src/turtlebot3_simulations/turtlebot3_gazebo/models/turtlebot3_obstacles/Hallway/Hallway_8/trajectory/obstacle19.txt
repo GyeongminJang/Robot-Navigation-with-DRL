@@ -1,0 +1,8 @@
+192 Pedestrian 19 0.38 -13.24
+193 Pedestrian 19 0.38 -13.24
+194 Pedestrian 19 0.38 -13.24
+195 Pedestrian 19 0.38 -13.24
+196 Pedestrian 19 0.38 -13.24
+197 Pedestrian 19 0.38 -13.24
+198 Pedestrian 19 0.39 -13.24
+199 Pedestrian 19 0.39 -13.24

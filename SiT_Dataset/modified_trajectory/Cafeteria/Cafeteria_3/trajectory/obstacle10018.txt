@@ -1,0 +1,12 @@
+60 Pedestrian 10018 -0.84 -4.79
+61 Pedestrian 10018 -0.84 -4.79
+62 Pedestrian 10018 -0.85 -4.79
+63 Pedestrian 10018 -0.85 -4.79
+64 Pedestrian 10018 -0.85 -4.79
+65 Pedestrian 10018 -0.85 -4.79
+66 Pedestrian 10018 -0.86 -4.80
+67 Pedestrian 10018 -0.86 -4.80
+68 Pedestrian 10018 -0.86 -4.80
+69 Pedestrian 10018 -0.87 -4.80
+70 Pedestrian 10018 -0.87 -4.80
+71 Pedestrian 10018 -0.87 -4.80

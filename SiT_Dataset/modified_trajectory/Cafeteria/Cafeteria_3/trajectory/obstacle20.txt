@@ -1,0 +1,8 @@
+0 Pedestrian 20 -28.90 2.23
+1 Pedestrian 20 -28.95 2.21
+2 Pedestrian 20 -29.00 2.19
+3 Pedestrian 20 -29.11 2.13
+4 Pedestrian 20 -29.21 2.08
+5 Pedestrian 20 -29.29 2.06
+6 Pedestrian 20 -29.37 2.05
+7 Pedestrian 20 -29.46 2.03

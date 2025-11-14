@@ -68,7 +68,7 @@ class DDPG(OffPolicyAgent):
     def __init__(self, device, sim_speed):
         super().__init__(device, sim_speed)
 
-        self.noise = OUNoise(action_space=self.action_size, max_sigma=0.1, min_sigma=0.1, decay_period=8000000)
+        self.noise = OUNoise(action_space=self.action_size, max_sigma=0.3, min_sigma=0.01, decay_period=10000000)
 
         self.actor = self.create_network(Actor, 'actor')
         self.actor_target = self.create_network(Actor, 'target_actor')

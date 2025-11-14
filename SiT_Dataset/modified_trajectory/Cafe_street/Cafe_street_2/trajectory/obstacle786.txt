@@ -1,0 +1,14 @@
+2 Pedestrian 786 -8.03 -62.74
+3 Pedestrian 786 -8.19 -62.67
+4 Pedestrian 786 -8.36 -62.60
+5 Pedestrian 786 -8.44 -62.59
+6 Pedestrian 786 -8.52 -62.58
+7 Pedestrian 786 -8.63 -62.63
+8 Pedestrian 786 -8.75 -62.69
+9 Pedestrian 786 -8.94 -62.77
+10 Pedestrian 786 -9.14 -62.85
+11 Pedestrian 786 -9.24 -62.86
+12 Pedestrian 786 -9.35 -62.86
+13 Pedestrian 786 -9.46 -62.87
+14 Pedestrian 786 -9.56 -62.87
+15 Pedestrian 786 -9.67 -62.88

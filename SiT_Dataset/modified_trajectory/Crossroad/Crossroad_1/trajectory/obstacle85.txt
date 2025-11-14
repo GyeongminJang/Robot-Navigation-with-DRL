@@ -1,0 +1,10 @@
+190 Pedestrian 85 -9.73 -44.24
+191 Pedestrian 85 -9.80 -44.40
+192 Pedestrian 85 -9.87 -44.56
+193 Pedestrian 85 -9.87 -44.71
+194 Pedestrian 85 -9.88 -44.86
+195 Pedestrian 85 -9.88 -44.98
+196 Pedestrian 85 -9.89 -45.11
+197 Pedestrian 85 -9.89 -45.16
+198 Pedestrian 85 -9.89 -45.21
+199 Pedestrian 85 -9.89 -45.26

@@ -1,0 +1,4 @@
+82 Pedestrian 20001 3.77 34.42
+83 Pedestrian 20001 3.77 34.42
+84 Pedestrian 20001 3.77 34.42
+85 Pedestrian 20001 3.77 34.42

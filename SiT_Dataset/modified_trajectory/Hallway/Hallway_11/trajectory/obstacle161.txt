@@ -1,0 +1,16 @@
+154 Pedestrian 161 -9.69 -4.37
+155 Pedestrian 161 -9.59 -4.42
+156 Pedestrian 161 -9.49 -4.46
+157 Pedestrian 161 -9.35 -4.48
+158 Pedestrian 161 -9.22 -4.49
+159 Pedestrian 161 -9.08 -4.51
+160 Pedestrian 161 -8.95 -4.54
+161 Pedestrian 161 -8.86 -4.55
+162 Pedestrian 161 -8.76 -4.56
+163 Pedestrian 161 -8.69 -4.55
+164 Pedestrian 161 -8.62 -4.55
+165 Pedestrian 161 -8.54 -4.53
+166 Pedestrian 161 -8.46 -4.51
+167 Pedestrian 161 -8.35 -4.48
+168 Pedestrian 161 -8.25 -4.45
+169 Pedestrian 161 -8.14 -4.41

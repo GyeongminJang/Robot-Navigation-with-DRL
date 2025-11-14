@@ -1,0 +1,4 @@
+18 Pedestrian 26 78.01 -21.62
+19 Pedestrian 26 77.95 -21.46
+20 Pedestrian 26 77.88 -21.29
+21 Pedestrian 26 77.82 -21.13

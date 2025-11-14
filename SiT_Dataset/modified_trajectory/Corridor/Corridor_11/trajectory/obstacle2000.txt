@@ -1,0 +1,12 @@
+188 Pedestrian 2000 -26.32 -10.49
+189 Pedestrian 2000 -26.27 -10.43
+190 Pedestrian 2000 -26.21 -10.36
+191 Pedestrian 2000 -26.16 -10.30
+192 Pedestrian 2000 -26.11 -10.23
+193 Pedestrian 2000 -26.09 -10.07
+194 Pedestrian 2000 -26.07 -9.92
+195 Pedestrian 2000 -25.94 -9.84
+196 Pedestrian 2000 -25.82 -9.77
+197 Pedestrian 2000 -25.83 -9.63
+198 Pedestrian 2000 -25.84 -9.50
+199 Pedestrian 2000 -25.85 -9.36

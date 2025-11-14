@@ -1,0 +1,16 @@
+0 Pedestrian 20005 -1.49 62.46
+1 Pedestrian 20005 -1.49 62.46
+2 Pedestrian 20005 -1.49 62.46
+3 Pedestrian 20005 -1.50 62.46
+4 Pedestrian 20005 -1.51 62.46
+5 Pedestrian 20005 -1.51 62.46
+6 Pedestrian 20005 -1.52 62.46
+7 Pedestrian 20005 -1.51 62.46
+8 Pedestrian 20005 -1.51 62.46
+9 Pedestrian 20005 -1.51 62.46
+10 Pedestrian 20005 -1.51 62.46
+11 Pedestrian 20005 -1.51 62.46
+12 Pedestrian 20005 -1.51 62.46
+13 Pedestrian 20005 -1.52 62.46
+14 Pedestrian 20005 -1.52 62.45
+15 Pedestrian 20005 -1.53 62.45

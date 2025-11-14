@@ -1,0 +1,4 @@
+38 Pedestrian 44 -12.68 -1.04
+39 Pedestrian 44 -12.77 -1.26
+40 Pedestrian 44 -12.85 -1.48
+41 Pedestrian 44 -12.93 -1.71

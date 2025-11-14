@@ -1,0 +1,4 @@
+0 Pedestrian 15 141.50 112.25
+1 Pedestrian 15 141.52 112.06
+2 Pedestrian 15 141.53 111.86
+3 Pedestrian 15 141.55 111.66

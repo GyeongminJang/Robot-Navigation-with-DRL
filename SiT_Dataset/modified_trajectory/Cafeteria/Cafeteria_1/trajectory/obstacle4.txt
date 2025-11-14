@@ -1,0 +1,6 @@
+0 Pedestrian 4 3.32 -3.90
+1 Pedestrian 4 3.40 -3.85
+2 Pedestrian 4 3.48 -3.80
+3 Pedestrian 4 3.60 -3.75
+4 Pedestrian 4 3.72 -3.70
+5 Pedestrian 4 3.84 -3.65

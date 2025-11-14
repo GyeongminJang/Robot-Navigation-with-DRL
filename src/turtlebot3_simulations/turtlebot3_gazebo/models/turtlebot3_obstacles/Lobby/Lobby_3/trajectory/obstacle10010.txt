@@ -1,0 +1,10 @@
+190 Pedestrian 10010 -15.60 -16.61
+191 Pedestrian 10010 -15.67 -16.51
+192 Pedestrian 10010 -15.74 -16.42
+193 Pedestrian 10010 -15.72 -16.46
+194 Pedestrian 10010 -15.69 -16.50
+195 Pedestrian 10010 -15.68 -16.52
+196 Pedestrian 10010 -15.66 -16.54
+197 Pedestrian 10010 -15.67 -16.52
+198 Pedestrian 10010 -15.68 -16.51
+199 Pedestrian 10010 -15.68 -16.49

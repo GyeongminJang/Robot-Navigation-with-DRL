@@ -1,0 +1,16 @@
+184 Pedestrian 23 -1.95 -12.69
+185 Pedestrian 23 -1.95 -12.69
+186 Pedestrian 23 -1.95 -12.69
+187 Pedestrian 23 -1.95 -12.69
+188 Pedestrian 23 -1.95 -12.69
+189 Pedestrian 23 -1.95 -12.69
+190 Pedestrian 23 -1.95 -12.69
+191 Pedestrian 23 -1.95 -12.69
+192 Pedestrian 23 -1.95 -12.69
+193 Pedestrian 23 -1.95 -12.69
+194 Pedestrian 23 -1.95 -12.69
+195 Pedestrian 23 -1.95 -12.69
+196 Pedestrian 23 -1.95 -12.69
+197 Pedestrian 23 -1.95 -12.69
+198 Pedestrian 23 -1.95 -12.69
+199 Pedestrian 23 -1.95 -12.69

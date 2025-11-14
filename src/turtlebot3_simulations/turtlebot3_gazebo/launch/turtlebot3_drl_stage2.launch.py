@@ -17,15 +17,15 @@
 # Authors: Ryan Shim
 
 import os
+import random
 
 from ament_index_python.packages import get_package_share_directory
 from launch import LaunchDescription
-from launch.actions import IncludeLaunchDescription
+from launch.actions import IncludeLaunchDescription, ExecuteProcess
 from launch.launch_description_sources import PythonLaunchDescriptionSource
 from launch.substitutions import LaunchConfiguration
 
 TURTLEBOT3_MODEL = os.environ['TURTLEBOT3_MODEL']
-
 
 def generate_launch_description():
     use_sim_time = LaunchConfiguration('use_sim_time', default='true')
@@ -35,6 +35,14 @@ def generate_launch_description():
                          'worlds', world_file_name)
     launch_file_dir = os.path.join(get_package_share_directory('turtlebot3_gazebo'), 'launch')
     pkg_gazebo_ros = get_package_share_directory('gazebo_ros')
+
+    # # 후보 위치 리스트 (x, y, yaw)
+    # candidate_positions = [
+    #     (2.0, -2.0, 0.0),
+    #     (20.0, -4.0, 0.0),
+    #     (30.0, -6.0, 0.0)
+    # ]
+    # x, y, yaw = random.choice(candidate_positions)
 
     file = open('/tmp/drlnav_current_stage.txt', 'w')
     file.write("2\n")
@@ -56,6 +64,18 @@ def generate_launch_description():
 
         IncludeLaunchDescription(
             PythonLaunchDescriptionSource([launch_file_dir, '/robot_state_publisher.launch.py']),
-            launch_arguments={'use_sim_time': use_sim_time}.items(),
+            launch_arguments={'use_sim_time': use_sim_time, 'ignore_timestamp': 'true'}.items(),  
         ),
+
+        # ExecuteProcess(
+        #     cmd=[
+        #         'ros2', 'run', 'gazebo_ros', 'spawn_entity.py',
+        #         '-entity', 'turtlebot3',
+        #         '-file', '/home/janggm/turtlebot3_drlnav/src/turtlebot3_simulations/turtlebot3_gazebo/models/turtlebot3_burger/model.sdf',
+        #         '-x', str(x),
+        #         '-y', str(y),
+        #         '-Y', str(yaw)
+        #     ],
+        #     output='screen'
+        # )
     ])

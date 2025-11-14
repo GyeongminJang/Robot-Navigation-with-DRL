@@ -1,0 +1,8 @@
+8 Pedestrian 1034 19.00 -12.19
+9 Pedestrian 1034 18.96 -12.17
+10 Pedestrian 1034 18.92 -12.15
+11 Pedestrian 1034 18.89 -12.13
+12 Pedestrian 1034 18.85 -12.11
+13 Pedestrian 1034 18.81 -12.09
+14 Pedestrian 1034 18.77 -12.07
+15 Pedestrian 1034 18.73 -12.05

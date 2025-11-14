@@ -1,0 +1,6 @@
+194 Pedestrian 111 -16.58 -16.26
+195 Pedestrian 111 -16.54 -16.24
+196 Pedestrian 111 -16.50 -16.22
+197 Pedestrian 111 -16.46 -16.21
+198 Pedestrian 111 -16.42 -16.19
+199 Pedestrian 111 -16.39 -16.17

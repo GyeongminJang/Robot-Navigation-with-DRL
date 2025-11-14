@@ -1,0 +1,10 @@
+190 Pedestrian 34 50.03 -8.35
+191 Pedestrian 34 49.95 -8.32
+192 Pedestrian 34 49.87 -8.29
+193 Pedestrian 34 49.79 -8.26
+194 Pedestrian 34 49.70 -8.24
+195 Pedestrian 34 49.61 -8.22
+196 Pedestrian 34 49.52 -8.21
+197 Pedestrian 34 49.43 -8.20
+198 Pedestrian 34 49.34 -8.20
+199 Pedestrian 34 49.24 -8.19

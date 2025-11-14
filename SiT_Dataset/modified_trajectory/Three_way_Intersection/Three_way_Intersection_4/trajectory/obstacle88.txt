@@ -1,0 +1,10 @@
+186 Pedestrian 88 -31.49 19.37
+187 Pedestrian 88 -31.47 19.27
+188 Pedestrian 88 -31.45 19.16
+189 Pedestrian 88 -31.43 19.05
+190 Pedestrian 88 -31.41 18.94
+191 Pedestrian 88 -31.45 18.93
+192 Pedestrian 88 -31.50 18.92
+193 Pedestrian 88 -31.51 18.89
+194 Pedestrian 88 -31.52 18.86
+195 Pedestrian 88 -31.54 18.83

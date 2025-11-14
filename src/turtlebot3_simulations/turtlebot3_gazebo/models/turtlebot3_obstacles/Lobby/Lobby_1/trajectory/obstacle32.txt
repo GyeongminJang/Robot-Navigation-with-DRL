@@ -1,0 +1,12 @@
+188 Pedestrian 32 -31.57 35.25
+189 Pedestrian 32 -31.72 35.12
+190 Pedestrian 32 -31.87 35.00
+191 Pedestrian 32 -31.91 34.96
+192 Pedestrian 32 -31.95 34.93
+193 Pedestrian 32 -31.99 34.90
+194 Pedestrian 32 -32.03 34.87
+195 Pedestrian 32 -32.13 34.78
+196 Pedestrian 32 -32.24 34.69
+197 Pedestrian 32 -32.37 34.58
+198 Pedestrian 32 -32.50 34.47
+199 Pedestrian 32 -32.63 34.36

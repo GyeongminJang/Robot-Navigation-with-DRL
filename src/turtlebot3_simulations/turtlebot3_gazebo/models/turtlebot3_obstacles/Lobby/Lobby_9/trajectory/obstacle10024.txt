@@ -1,0 +1,14 @@
+4 Pedestrian 10024 17.80 -13.67
+5 Pedestrian 10024 17.80 -13.67
+6 Pedestrian 10024 17.80 -13.67
+7 Pedestrian 10024 17.81 -13.67
+8 Pedestrian 10024 17.81 -13.68
+9 Pedestrian 10024 17.81 -13.68
+10 Pedestrian 10024 17.82 -13.68
+11 Pedestrian 10024 17.82 -13.68
+12 Pedestrian 10024 17.82 -13.69
+13 Pedestrian 10024 17.83 -13.69
+14 Pedestrian 10024 17.83 -13.69
+15 Pedestrian 10024 17.83 -13.69
+16 Pedestrian 10024 17.84 -13.70
+17 Pedestrian 10024 17.84 -13.70

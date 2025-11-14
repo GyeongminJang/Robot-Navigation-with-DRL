@@ -1,0 +1,16 @@
+184 Pedestrian 10037 -17.10 3.79
+185 Pedestrian 10037 -17.10 3.79
+186 Pedestrian 10037 -17.10 3.79
+187 Pedestrian 10037 -17.10 3.79
+188 Pedestrian 10037 -17.10 3.79
+189 Pedestrian 10037 -17.10 3.79
+190 Pedestrian 10037 -17.10 3.79
+191 Pedestrian 10037 -17.10 3.79
+192 Pedestrian 10037 -17.10 3.79
+193 Pedestrian 10037 -17.10 3.79
+194 Pedestrian 10037 -17.10 3.79
+195 Pedestrian 10037 -17.10 3.79
+196 Pedestrian 10037 -17.10 3.79
+197 Pedestrian 10037 -17.10 3.79
+198 Pedestrian 10037 -17.10 3.79
+199 Pedestrian 10037 -17.10 3.79

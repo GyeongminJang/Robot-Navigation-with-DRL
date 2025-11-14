@@ -73,11 +73,11 @@ class Graph():
 
         # Plot critic loss
         y = np.array(self.data_loss_critic)
-        self.ax[0][1].plot(xaxis, y)
+        self.ax[0][1].plot(xaxis, y, color='cyan')
 
         # Plot actor loss
         y = np.array(self.data_loss_actor)
-        self.ax[1][0].plot(xaxis, y)
+        self.ax[1][0].plot(xaxis, y, color='navy')
 
         # Plot average reward
         count = int(episode / GRAPH_AVERAGE_REWARD)
@@ -90,7 +90,7 @@ class Graph():
                     avg_sum += self.data_rewards[i * GRAPH_AVERAGE_REWARD + j]
                 averages.append(avg_sum / GRAPH_AVERAGE_REWARD)
             y = np.array(averages)
-            self.ax[1][1].plot(xaxis, y)
+            self.ax[1][1].plot(xaxis, y, color='blue')
 
         plt.draw()
         plt.pause(0.2)

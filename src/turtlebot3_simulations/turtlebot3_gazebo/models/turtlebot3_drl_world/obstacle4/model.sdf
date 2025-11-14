@@ -34,5 +34,5 @@
         <xyz_offset>0 0 0</xyz_offset>
         <rpy_offset>0 0 0</rpy_offset>
       </plugin>
-    </model>  
+    </model>
 </sdf>

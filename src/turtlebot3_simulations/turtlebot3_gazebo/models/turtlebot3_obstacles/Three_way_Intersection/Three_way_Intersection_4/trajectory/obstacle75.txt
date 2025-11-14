@@ -1,0 +1,4 @@
+8 Pedestrian 75 25.99 22.99
+9 Pedestrian 75 26.04 22.94
+10 Pedestrian 75 26.08 22.88
+11 Pedestrian 75 26.12 22.83

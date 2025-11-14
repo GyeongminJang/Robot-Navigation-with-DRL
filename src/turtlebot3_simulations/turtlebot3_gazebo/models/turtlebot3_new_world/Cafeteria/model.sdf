@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sdf version="1.6">
+ <model name="auto_generated_model">
+  <model name="Building_1">
+   <static>true</static>
+   <link name="Building_1_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-13.93 -1.75</point>
+       <point>-13.38 -0.48</point>
+       <point>-14.17 -0.16</point>
+       <point>-14.57 -1.11</point>
+       <point>-19.48 0.95</point>
+       <point>-19.06 1.93</point>
+       <point>-19.84 2.26</point>
+       <point>-20.39 0.89</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-13.93 -1.75</point>
+       <point>-13.38 -0.48</point>
+       <point>-14.17 -0.16</point>
+       <point>-14.57 -1.11</point>
+       <point>-19.48 0.95</point>
+       <point>-19.06 1.93</point>
+       <point>-19.84 2.26</point>
+       <point>-20.39 0.89</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_2">
+   <static>true</static>
+   <link name="Building_2_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-38.9 8.89</point>
+       <point>-37.43 12.23</point>
+       <point>-33.39 10.54</point>
+       <point>-34.79 7.2</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-38.9 8.89</point>
+       <point>-37.43 12.23</point>
+       <point>-33.39 10.54</point>
+       <point>-34.79 7.2</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_3">
+   <static>true</static>
+   <link name="Building_3_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-28.95 4.39</point>
+       <point>-25.86 3.14</point>
+       <point>-24.35 6.64</point>
+       <point>-27.38 7.94</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-28.95 4.39</point>
+       <point>-25.86 3.14</point>
+       <point>-24.35 6.64</point>
+       <point>-27.38 7.94</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_4">
+   <static>true</static>
+   <link name="Building_4_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-39.85 8.85</point>
+       <point>-42.66 10.02</point>
+       <point>-43.61 7.81</point>
+       <point>-41.03 6.68</point>
+       <point>-40.75 6.57</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-39.85 8.85</point>
+       <point>-42.66 10.02</point>
+       <point>-43.61 7.81</point>
+       <point>-41.03 6.68</point>
+       <point>-40.75 6.57</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_5">
+   <static>true</static>
+   <link name="Building_5_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-41.03 6.68</point>
+       <point>-43.49 0.79</point>
+       <point>-42.57 0.43</point>
+       <point>-40.11 6.3</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-41.03 6.68</point>
+       <point>-43.49 0.79</point>
+       <point>-42.57 0.43</point>
+       <point>-40.11 6.3</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_6">
+   <static>true</static>
+   <link name="Building_6_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-11.98 -4.6</point>
+       <point>-15.4 -3.19</point>
+       <point>-16.28 -5.38</point>
+       <point>-18.31 -10.42</point>
+       <point>-15.02 -11.78</point>
+       <point>-13.6 -8.57</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-11.98 -4.6</point>
+       <point>-15.4 -3.19</point>
+       <point>-16.28 -5.38</point>
+       <point>-18.31 -10.42</point>
+       <point>-15.02 -11.78</point>
+       <point>-13.6 -8.57</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_7">
+   <static>true</static>
+   <link name="Building_7_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-16.18 -5.23</point>
+       <point>-21.38 -3.08</point>
+       <point>-20.54 -1.1</point>
+       <point>-20.98 -0.9</point>
+       <point>-22.15 -0.45</point>
+       <point>-25.1 -7.71</point>
+       <point>-18.27 -10.48</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-16.18 -5.23</point>
+       <point>-21.38 -3.08</point>
+       <point>-20.54 -1.1</point>
+       <point>-20.98 -0.9</point>
+       <point>-22.15 -0.45</point>
+       <point>-25.1 -7.71</point>
+       <point>-18.27 -10.48</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_8">
+   <static>true</static>
+   <link name="Building_8_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-5.85 3.75</point>
+       <point>5.18 -0.96</point>
+       <point>4.48 -2.68</point>
+       <point>4.48 -2.68</point>
+       <point>7.01 -3.74</point>
+       <point>8.83 0.64</point>
+       <point>-4.78 6.22</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-5.85 3.75</point>
+       <point>5.18 -0.96</point>
+       <point>4.48 -2.68</point>
+       <point>4.48 -2.68</point>
+       <point>7.01 -3.74</point>
+       <point>8.83 0.64</point>
+       <point>-4.78 6.22</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_9">
+   <static>true</static>
+   <link name="Building_9_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-3.84 -16.32</point>
+       <point>-3.84 -16.32</point>
+       <point>-1.05 -9.6</point>
+       <point>-0.69 -9.72</point>
+       <point>-3.46 -16.47</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-3.84 -16.32</point>
+       <point>-3.84 -16.32</point>
+       <point>-1.05 -9.6</point>
+       <point>-0.69 -9.72</point>
+       <point>-3.46 -16.47</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_10">
+   <static>true</static>
+   <link name="Building_10_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-8.44 -10.61</point>
+       <point>-8.44 -10.61</point>
+       <point>-9.81 -13.87</point>
+       <point>-6.8 -15.12</point>
+       <point>-6.8 -15.12</point>
+       <point>-5.5 -11.87</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-8.44 -10.61</point>
+       <point>-8.44 -10.61</point>
+       <point>-9.81 -13.87</point>
+       <point>-6.8 -15.12</point>
+       <point>-6.8 -15.12</point>
+       <point>-5.5 -11.87</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_11">
+   <static>true</static>
+   <link name="Building_11_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-1.25 -17.37</point>
+       <point>-1.25 -17.37</point>
+       <point>1.25 -18.39</point>
+       <point>3.99 -11.64</point>
+       <point>1.32 -10.56</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-1.25 -17.37</point>
+       <point>-1.25 -17.37</point>
+       <point>1.25 -18.39</point>
+       <point>3.99 -11.64</point>
+       <point>1.32 -10.56</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_12">
+   <static>true</static>
+   <link name="Building_12_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>7.04 -12.88</point>
+       <point>7.04 -12.88</point>
+       <point>4.3 -19.65</point>
+       <point>1.25 -18.39</point>
+       <point>1.25 -18.39</point>
+       <point>3.99 -11.64</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>7.04 -12.88</point>
+       <point>7.04 -12.88</point>
+       <point>4.3 -19.65</point>
+       <point>1.25 -18.39</point>
+       <point>1.25 -18.39</point>
+       <point>3.99 -11.64</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_13">
+   <static>true</static>
+   <link name="Building_13_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>4.52 -2.68</point>
+       <point>1.99 -8.27</point>
+       <point>4.64 -9.37</point>
+       <point>7.0 -3.74</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>4.52 -2.68</point>
+       <point>1.99 -8.27</point>
+       <point>4.64 -9.37</point>
+       <point>7.0 -3.74</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_14">
+   <static>true</static>
+   <link name="Building_14_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-34.08 -4.08</point>
+       <point>-31.11 3.23</point>
+       <point>-32.01 3.6</point>
+       <point>-34.97 -3.72</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-34.08 -4.08</point>
+       <point>-31.11 3.23</point>
+       <point>-32.01 3.6</point>
+       <point>-34.97 -3.72</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_15">
+   <static>true</static>
+   <link name="Building_15_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-34.59 -2.78</point>
+       <point>-32.21 3.08</point>
+       <point>-33.86 3.74</point>
+       <point>-36.17 -2.14</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-34.59 -2.78</point>
+       <point>-32.21 3.08</point>
+       <point>-33.86 3.74</point>
+       <point>-36.17 -2.14</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_16">
+   <static>true</static>
+   <link name="Building_16_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-34.97 -3.72</point>
+       <point>-43.89 -0.18</point>
+       <point>-43.49 0.79</point>
+       <point>-34.59 -2.78</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-34.97 -3.72</point>
+       <point>-43.89 -0.18</point>
+       <point>-43.49 0.79</point>
+       <point>-34.59 -2.78</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_17">
+   <static>true</static>
+   <link name="Building_17_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-30.04 -5.69</point>
+       <point>-32.52 -4.72</point>
+       <point>-31.98 -3.38</point>
+       <point>-30.64 -3.92</point>
+       <point>-28.19 2.03</point>
+       <point>-27.21 1.64</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-30.04 -5.69</point>
+       <point>-32.52 -4.72</point>
+       <point>-31.98 -3.38</point>
+       <point>-30.64 -3.92</point>
+       <point>-28.19 2.03</point>
+       <point>-27.21 1.64</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_18">
+   <static>true</static>
+   <link name="Building_18_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-7.55 -11.0</point>
+       <point>-5.87 -7.15</point>
+       <point>-9.64 -5.54</point>
+       <point>-11.24 -9.45</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-7.55 -11.0</point>
+       <point>-5.87 -7.15</point>
+       <point>-9.64 -5.54</point>
+       <point>-11.24 -9.45</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_19">
+   <static>true</static>
+   <link name="Building_19_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-6.4 -15.29</point>
+       <point>-6.8 -15.12</point>
+       <point>-3.9 -7.93</point>
+       <point>-3.56 -8.03</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-6.4 -15.29</point>
+       <point>-6.8 -15.12</point>
+       <point>-3.9 -7.93</point>
+       <point>-3.56 -8.03</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_20">
+   <static>true</static>
+   <link name="Building_20_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-29.63 8.92</point>
+       <point>-27.38 7.94</point>
+       <point>-28.95 4.39</point>
+       <point>-31.14 5.27</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-29.63 8.92</point>
+       <point>-27.38 7.94</point>
+       <point>-28.95 4.39</point>
+       <point>-31.14 5.27</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_21">
+   <static>true</static>
+   <link name="Building_21_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-33.39 10.54</point>
+       <point>-29.63 8.92</point>
+       <point>-31.08 5.27</point>
+       <point>-31.61 5.47</point>
+       <point>-31.31 6.22</point>
+       <point>-34.64 7.62</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-33.39 10.54</point>
+       <point>-29.63 8.92</point>
+       <point>-31.08 5.27</point>
+       <point>-31.61 5.47</point>
+       <point>-31.31 6.22</point>
+       <point>-34.64 7.62</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_22">
+   <static>true</static>
+   <link name="Building_22_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-11.18 5.6</point>
+       <point>-10.04 8.36</point>
+       <point>-21.59 13.18</point>
+       <point>-23.45 8.79</point>
+       <point>-20.1 7.36</point>
+       <point>-19.38 8.98</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-11.18 5.6</point>
+       <point>-10.04 8.36</point>
+       <point>-21.59 13.18</point>
+       <point>-23.45 8.79</point>
+       <point>-20.1 7.36</point>
+       <point>-19.38 8.98</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_23">
+   <static>true</static>
+   <link name="Building_23_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-22.27 1.66</point>
+       <point>-20.1 7.36</point>
+       <point>-23.46 8.82</point>
+       <point>-25.89 3.14</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-22.27 1.66</point>
+       <point>-20.1 7.36</point>
+       <point>-23.46 8.82</point>
+       <point>-25.89 3.14</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_24">
+   <static>true</static>
+   <link name="Building_24_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-5.85 3.75</point>
+       <point>-11.04 5.95</point>
+       <point>-10.04 8.36</point>
+       <point>-4.78 6.22</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-5.85 3.75</point>
+       <point>-11.04 5.95</point>
+       <point>-10.04 8.36</point>
+       <point>-4.78 6.22</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+  <model name="Building_25">
+   <static>true</static>
+   <link name="Building_25_link">
+    <collision name="collision_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-2.69 -6.33</point>
+       <point>-2.24 -5.03</point>
+       <point>-3.02 -4.7</point>
+       <point>-3.42 -5.59</point>
+       <point>-8.05 -3.64</point>
+       <point>-7.74 -2.88</point>
+       <point>-8.63 -2.47</point>
+       <point>-9.12 -3.69</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+    </collision>
+    <visual name="visual_mesh">
+     <origin xyz="0 0 0"/>
+     <geometry>
+      <polyline>
+       <point>-2.69 -6.33</point>
+       <point>-2.24 -5.03</point>
+       <point>-3.02 -4.7</point>
+       <point>-3.42 -5.59</point>
+       <point>-8.05 -3.64</point>
+       <point>-7.74 -2.88</point>
+       <point>-8.63 -2.47</point>
+       <point>-9.12 -3.69</point>
+       <height>3.0</height>
+      </polyline>
+     </geometry>
+     <material>
+      <diffuse>0.3 0.3 0.3 1</diffuse>
+     </material>
+    </visual>
+   </link>
+  </model>
+ </model>
+</sdf>

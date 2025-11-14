@@ -1,0 +1,4 @@
+0 Pedestrian 29 45.72 -11.75
+1 Pedestrian 29 45.60 -11.77
+2 Pedestrian 29 45.49 -11.79
+3 Pedestrian 29 45.37 -11.81

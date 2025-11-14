@@ -1,0 +1,16 @@
+0 Pedestrian 555 0.18 -68.70
+1 Pedestrian 555 0.18 -68.70
+2 Pedestrian 555 0.18 -68.70
+3 Pedestrian 555 0.21 -68.71
+4 Pedestrian 555 0.23 -68.71
+5 Pedestrian 555 0.25 -68.73
+6 Pedestrian 555 0.27 -68.75
+7 Pedestrian 555 0.29 -68.77
+8 Pedestrian 555 0.31 -68.79
+9 Pedestrian 555 0.51 -68.83
+10 Pedestrian 555 0.71 -68.88
+11 Pedestrian 555 0.88 -68.93
+12 Pedestrian 555 1.05 -68.98
+13 Pedestrian 555 1.15 -69.04
+14 Pedestrian 555 1.25 -69.10
+15 Pedestrian 555 1.35 -69.16

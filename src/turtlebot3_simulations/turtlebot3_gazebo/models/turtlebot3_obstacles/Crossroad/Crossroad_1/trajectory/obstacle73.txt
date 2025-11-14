@@ -1,0 +1,14 @@
+186 Pedestrian 73 -50.51 74.92
+187 Pedestrian 73 -50.45 74.83
+188 Pedestrian 73 -50.39 74.75
+189 Pedestrian 73 -50.32 74.67
+190 Pedestrian 73 -50.24 74.60
+191 Pedestrian 73 -50.16 74.54
+192 Pedestrian 73 -50.07 74.48
+193 Pedestrian 73 -49.99 74.42
+194 Pedestrian 73 -49.92 74.36
+195 Pedestrian 73 -49.88 74.28
+196 Pedestrian 73 -49.85 74.20
+197 Pedestrian 73 -49.84 74.10
+198 Pedestrian 73 -49.83 74.01
+199 Pedestrian 73 -49.82 73.91

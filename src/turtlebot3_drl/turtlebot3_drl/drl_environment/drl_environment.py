@@ -217,7 +217,7 @@ class DRLEnvironment(Node):
         elif self.obstacle_distance < THRESHOLD_COLLISION:
             dynamic_collision = False
             for obstacle_distance in self.obstacle_distances:
-                if obstacle_distance < (THRESHOLD_COLLISION + OBSTACLE_RADIUS + 0.05):
+                if obstacle_distance < (THRESHOLD_COLLISION + OBSTACLE_RADIUS + 0.4):
                     dynamic_collision = True
             if dynamic_collision:
                 self.succeed = COLLISION_OBSTACLE

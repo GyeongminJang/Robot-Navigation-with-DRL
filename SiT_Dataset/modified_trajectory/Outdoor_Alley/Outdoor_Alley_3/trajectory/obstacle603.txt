@@ -1,0 +1,16 @@
+174 Pedestrian 603 73.88 -0.81
+175 Pedestrian 603 73.91 -0.72
+176 Pedestrian 603 73.94 -0.63
+177 Pedestrian 603 73.95 -0.55
+178 Pedestrian 603 73.97 -0.47
+179 Pedestrian 603 73.96 -0.42
+180 Pedestrian 603 73.95 -0.36
+181 Pedestrian 603 73.92 -0.34
+182 Pedestrian 603 73.89 -0.33
+183 Pedestrian 603 73.94 -0.34
+184 Pedestrian 603 73.99 -0.35
+185 Pedestrian 603 74.11 -0.37
+186 Pedestrian 603 74.24 -0.39
+187 Pedestrian 603 74.09 -0.35
+188 Pedestrian 603 73.95 -0.31
+189 Pedestrian 603 73.81 -0.28

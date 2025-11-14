@@ -1,0 +1,8 @@
+0 Pedestrian 12 -38.43 8.65
+1 Pedestrian 12 -38.45 8.64
+2 Pedestrian 12 -38.47 8.63
+3 Pedestrian 12 -38.51 8.62
+4 Pedestrian 12 -38.55 8.62
+5 Pedestrian 12 -38.57 8.61
+6 Pedestrian 12 -38.59 8.59
+7 Pedestrian 12 -38.61 8.58

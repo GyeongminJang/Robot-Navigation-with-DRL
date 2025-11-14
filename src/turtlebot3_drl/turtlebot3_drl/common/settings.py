@@ -18,24 +18,24 @@ GRAPH_AVERAGE_REWARD     = 10       # Average the reward graph over every N epis
 
 # --- SIMULATION ENVIRONMENT SETTINGS ---
 REWARD_FUNCTION = "A"           # Defined in reward.py
-EPISODE_TIMEOUT_SECONDS = 50    # Number of seconds after which episode timeout occurs
+EPISODE_TIMEOUT_SECONDS = 60    # Number of seconds after which episode timeout occurs
 
 TOPIC_SCAN = 'scan'
 TOPIC_VELO = 'cmd_vel'
 TOPIC_ODOM = 'odom'
 
-EPISODE_TIMEOUT_SECONDS     = 50    # Number of seconds after which episode timeout occurs
-ARENA_LENGTH                = 4.2   # meters
-ARENA_WIDTH                 = 4.2   # meters
-SPEED_LINEAR_MAX            = 0.22  # m/s
-SPEED_ANGULAR_MAX           = 2.0   # rad/s
+EPISODE_TIMEOUT_SECONDS     = 60   # Number of seconds after which episode timeout occurs
+ARENA_LENGTH                = 25   # meters
+ARENA_WIDTH                 = 25   # meters
+SPEED_LINEAR_MAX            = 1.0   # m/s
+SPEED_ANGULAR_MAX           = 1.0   # rad/s
 
-LIDAR_DISTANCE_CAP          = 3.5   # meters
+LIDAR_DISTANCE_CAP          = 12.0   # meters
 THRESHOLD_COLLISION         = 0.13  # meters
-THREHSOLD_GOAL              = 0.20  # meters
+THREHSOLD_GOAL              = 0.45  # meters
 
 OBSTACLE_RADIUS             = 0.16  # meters
-MAX_NUMBER_OBSTACLES        = 6
+MAX_NUMBER_OBSTACLES        = 29
 ENABLE_MOTOR_NOISE          = False # Add normally distributed noise to motor output to simulate hardware imperfections
 
 # --- REAL ROBOT ENVIRONMENT SETTINGS ---
@@ -76,25 +76,25 @@ DISCOUNT_FACTOR = 0.99
 LEARNING_RATE   = 0.003
 TAU             = 0.003
 
-OBSERVE_STEPS   = 25000     # At training start random actions are taken for N steps for better exploration
+OBSERVE_STEPS   = 200000    # At training start random actions are taken for N steps for better exploration
 STEP_TIME       = 0.01      # Delay between steps, can be set to 0
 EPSILON_DECAY   = 0.9995    # Epsilon decay per step
 EPSILON_MINIMUM = 0.05
 
 # DQN parameters
-DQN_ACTION_SIZE = 5
+DQN_ACTION_SIZE = 7
 TARGET_UPDATE_FREQUENCY = 1000
 
 # DDPG parameters
 
 # TD3 parameters
-POLICY_NOISE            = 0.2
+POLICY_NOISE            = 0.3
 POLICY_NOISE_CLIP       = 0.5
-POLICY_UPDATE_FREQUENCY = 2
+POLICY_UPDATE_FREQUENCY = 3
 
 # Stacking
-STACK_DEPTH = 3             # Number of subsequent frames processed per step
-FRAME_SKIP  = 4             # Number of frames skipped in between subsequent frames
+STACK_DEPTH = 2             # Number of subsequent frames processed per step
+FRAME_SKIP  = 1             # Number of frames skipped in between subsequent frames
 
 # Episode outcome enumeration
 UNKNOWN = 0

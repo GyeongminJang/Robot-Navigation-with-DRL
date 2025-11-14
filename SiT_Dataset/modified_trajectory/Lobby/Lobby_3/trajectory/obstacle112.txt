@@ -1,0 +1,10 @@
+190 Pedestrian 112 -16.10 -17.31
+191 Pedestrian 112 -16.17 -17.27
+192 Pedestrian 112 -16.23 -17.24
+193 Pedestrian 112 -16.26 -17.23
+194 Pedestrian 112 -16.28 -17.21
+195 Pedestrian 112 -16.26 -17.23
+196 Pedestrian 112 -16.23 -17.24
+197 Pedestrian 112 -16.16 -17.28
+198 Pedestrian 112 -16.10 -17.31
+199 Pedestrian 112 -16.04 -17.35

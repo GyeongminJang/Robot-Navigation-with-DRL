@@ -1,0 +1,12 @@
+32 Pedestrian 1212 -21.30 7.25
+33 Pedestrian 1212 -21.37 7.36
+34 Pedestrian 1212 -21.44 7.47
+35 Pedestrian 1212 -21.57 7.46
+36 Pedestrian 1212 -21.70 7.45
+37 Pedestrian 1212 -21.72 7.48
+38 Pedestrian 1212 -21.74 7.51
+39 Pedestrian 1212 -21.66 7.59
+40 Pedestrian 1212 -21.58 7.66
+41 Pedestrian 1212 -21.37 7.72
+42 Pedestrian 1212 -21.15 7.78
+43 Pedestrian 1212 -20.94 7.84

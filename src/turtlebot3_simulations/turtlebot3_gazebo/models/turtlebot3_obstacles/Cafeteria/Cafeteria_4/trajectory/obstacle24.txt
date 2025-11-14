@@ -1,0 +1,16 @@
+0 Pedestrian 24 -17.55 6.35
+1 Pedestrian 24 -17.55 6.35
+2 Pedestrian 24 -17.55 6.35
+3 Pedestrian 24 -17.55 6.35
+4 Pedestrian 24 -17.55 6.35
+5 Pedestrian 24 -17.55 6.35
+6 Pedestrian 24 -17.55 6.35
+7 Pedestrian 24 -17.55 6.35
+8 Pedestrian 24 -17.55 6.35
+9 Pedestrian 24 -17.55 6.35
+10 Pedestrian 24 -17.55 6.35
+11 Pedestrian 24 -17.55 6.35
+12 Pedestrian 24 -17.55 6.35
+13 Pedestrian 24 -17.55 6.35
+14 Pedestrian 24 -17.55 6.35
+15 Pedestrian 24 -17.55 6.35

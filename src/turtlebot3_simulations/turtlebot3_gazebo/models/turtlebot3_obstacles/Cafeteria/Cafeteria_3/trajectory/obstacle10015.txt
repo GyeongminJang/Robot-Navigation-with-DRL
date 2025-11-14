@@ -1,0 +1,12 @@
+60 Pedestrian 10015 -5.41 -2.69
+61 Pedestrian 10015 -5.41 -2.70
+62 Pedestrian 10015 -5.41 -2.70
+63 Pedestrian 10015 -5.41 -2.71
+64 Pedestrian 10015 -5.42 -2.71
+65 Pedestrian 10015 -5.42 -2.72
+66 Pedestrian 10015 -5.42 -2.72
+67 Pedestrian 10015 -5.42 -2.73
+68 Pedestrian 10015 -5.43 -2.73
+69 Pedestrian 10015 -5.43 -2.74
+70 Pedestrian 10015 -5.43 -2.75
+71 Pedestrian 10015 -5.44 -2.75

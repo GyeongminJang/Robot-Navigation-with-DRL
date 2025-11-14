@@ -1,0 +1,16 @@
+90 Pedestrian 85 -41.72 39.97
+91 Pedestrian 85 -41.88 39.93
+92 Pedestrian 85 -42.05 39.88
+93 Pedestrian 85 -42.19 39.90
+94 Pedestrian 85 -42.32 39.93
+95 Pedestrian 85 -42.39 39.94
+96 Pedestrian 85 -42.46 39.95
+97 Pedestrian 85 -42.59 39.97
+98 Pedestrian 85 -42.71 39.98
+99 Pedestrian 85 -42.86 40.00
+100 Pedestrian 85 -43.01 40.02
+101 Pedestrian 85 -43.14 40.04
+102 Pedestrian 85 -43.27 40.05
+103 Pedestrian 85 -43.43 40.08
+104 Pedestrian 85 -43.59 40.10
+105 Pedestrian 85 -43.76 40.12

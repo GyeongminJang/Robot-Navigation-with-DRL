@@ -1,0 +1,16 @@
+166 Pedestrian 45 -8.67 -5.42
+167 Pedestrian 45 -8.67 -5.42
+168 Pedestrian 45 -8.67 -5.42
+169 Pedestrian 45 -8.67 -5.42
+170 Pedestrian 45 -8.68 -5.41
+171 Pedestrian 45 -8.68 -5.41
+172 Pedestrian 45 -8.69 -5.41
+173 Pedestrian 45 -8.70 -5.40
+174 Pedestrian 45 -8.71 -5.40
+175 Pedestrian 45 -8.72 -5.39
+176 Pedestrian 45 -8.73 -5.38
+177 Pedestrian 45 -8.74 -5.38
+178 Pedestrian 45 -8.76 -5.37
+179 Pedestrian 45 -8.77 -5.36
+180 Pedestrian 45 -8.78 -5.36
+181 Pedestrian 45 -8.79 -5.35

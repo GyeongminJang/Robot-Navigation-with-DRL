@@ -1,0 +1,8 @@
+52 Pedestrian 2010 -35.66 -12.43
+53 Pedestrian 2010 -35.71 -12.54
+54 Pedestrian 2010 -35.76 -12.66
+55 Pedestrian 2010 -35.81 -12.78
+56 Pedestrian 2010 -35.86 -12.89
+57 Pedestrian 2010 -35.91 -13.01
+58 Pedestrian 2010 -35.96 -13.13
+59 Pedestrian 2010 -36.02 -13.24

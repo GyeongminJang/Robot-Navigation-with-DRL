@@ -1,0 +1,16 @@
+48 Pedestrian 28 -36.63 56.09
+49 Pedestrian 28 -36.53 56.06
+50 Pedestrian 28 -36.43 56.03
+51 Pedestrian 28 -36.35 56.01
+52 Pedestrian 28 -36.26 55.99
+53 Pedestrian 28 -36.22 55.99
+54 Pedestrian 28 -36.17 55.99
+55 Pedestrian 28 -36.16 56.00
+56 Pedestrian 28 -36.15 56.02
+57 Pedestrian 28 -36.11 56.02
+58 Pedestrian 28 -36.07 56.02
+59 Pedestrian 28 -36.06 56.02
+60 Pedestrian 28 -36.05 56.01
+61 Pedestrian 28 -36.06 56.01
+62 Pedestrian 28 -36.07 56.02
+63 Pedestrian 28 -36.09 56.03

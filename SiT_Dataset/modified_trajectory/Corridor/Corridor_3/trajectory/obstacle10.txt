@@ -1,0 +1,16 @@
+0 Pedestrian 10 8.35 0.43
+1 Pedestrian 10 8.23 0.40
+2 Pedestrian 10 8.11 0.36
+3 Pedestrian 10 7.98 0.32
+4 Pedestrian 10 7.85 0.29
+5 Pedestrian 10 7.69 0.24
+6 Pedestrian 10 7.53 0.19
+7 Pedestrian 10 7.36 0.14
+8 Pedestrian 10 7.19 0.09
+9 Pedestrian 10 7.12 0.07
+10 Pedestrian 10 7.05 0.05
+11 Pedestrian 10 7.09 0.06
+12 Pedestrian 10 7.13 0.07
+13 Pedestrian 10 6.97 0.03
+14 Pedestrian 10 6.80 -0.02
+15 Pedestrian 10 6.64 -0.07

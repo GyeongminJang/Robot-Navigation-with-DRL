@@ -1,0 +1,6 @@
+0 Pedestrian 42 88.26 -24.22
+1 Pedestrian 42 88.34 -24.23
+2 Pedestrian 42 88.41 -24.24
+3 Pedestrian 42 88.48 -24.26
+4 Pedestrian 42 88.56 -24.28
+5 Pedestrian 42 88.63 -24.30

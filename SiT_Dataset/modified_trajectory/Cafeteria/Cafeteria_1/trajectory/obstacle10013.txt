@@ -1,0 +1,12 @@
+186 Pedestrian 10013 -18.97 2.83
+187 Pedestrian 10013 -18.97 2.83
+188 Pedestrian 10013 -18.97 2.83
+189 Pedestrian 10013 -18.97 2.83
+190 Pedestrian 10013 -18.97 2.83
+191 Pedestrian 10013 -18.97 2.83
+192 Pedestrian 10013 -18.97 2.83
+193 Pedestrian 10013 -18.97 2.83
+194 Pedestrian 10013 -18.97 2.83
+195 Pedestrian 10013 -18.97 2.83
+196 Pedestrian 10013 -18.97 2.83
+197 Pedestrian 10013 -18.97 2.83

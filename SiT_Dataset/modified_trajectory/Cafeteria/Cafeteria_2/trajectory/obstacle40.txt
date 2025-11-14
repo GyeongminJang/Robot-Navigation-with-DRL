@@ -1,0 +1,8 @@
+178 Pedestrian 40 -20.92 8.44
+179 Pedestrian 40 -20.93 8.45
+180 Pedestrian 40 -20.94 8.46
+181 Pedestrian 40 -20.95 8.47
+182 Pedestrian 40 -20.96 8.48
+183 Pedestrian 40 -20.96 8.49
+184 Pedestrian 40 -20.97 8.50
+185 Pedestrian 40 -20.98 8.51

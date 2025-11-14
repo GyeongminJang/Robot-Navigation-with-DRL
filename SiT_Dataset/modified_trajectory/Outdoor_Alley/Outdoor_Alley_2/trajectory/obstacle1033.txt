@@ -1,0 +1,12 @@
+2 Pedestrian 1033 19.53 -11.80
+3 Pedestrian 1033 19.53 -11.80
+4 Pedestrian 1033 19.53 -11.80
+5 Pedestrian 1033 19.53 -11.80
+6 Pedestrian 1033 19.53 -11.80
+7 Pedestrian 1033 19.53 -11.80
+8 Pedestrian 1033 19.53 -11.80
+9 Pedestrian 1033 19.53 -11.80
+10 Pedestrian 1033 19.53 -11.80
+11 Pedestrian 1033 19.53 -11.80
+12 Pedestrian 1033 19.53 -11.80
+13 Pedestrian 1033 19.53 -11.80

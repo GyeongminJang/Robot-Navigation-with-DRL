@@ -1,0 +1,8 @@
+44 Pedestrian 18 -0.46 21.92
+45 Pedestrian 18 -0.50 22.06
+46 Pedestrian 18 -0.53 22.20
+47 Pedestrian 18 -0.56 22.33
+48 Pedestrian 18 -0.59 22.47
+49 Pedestrian 18 -0.63 22.61
+50 Pedestrian 18 -0.66 22.74
+51 Pedestrian 18 -0.69 22.88

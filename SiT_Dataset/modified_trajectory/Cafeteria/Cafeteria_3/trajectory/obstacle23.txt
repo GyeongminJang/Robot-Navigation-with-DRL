@@ -1,0 +1,10 @@
+0 Pedestrian 23 -45.77 10.84
+1 Pedestrian 23 -45.84 10.78
+2 Pedestrian 23 -45.90 10.72
+3 Pedestrian 23 -45.93 10.75
+4 Pedestrian 23 -45.95 10.78
+5 Pedestrian 23 -45.91 10.78
+6 Pedestrian 23 -45.87 10.77
+7 Pedestrian 23 -45.88 10.67
+8 Pedestrian 23 -45.90 10.57
+9 Pedestrian 23 -45.91 10.47

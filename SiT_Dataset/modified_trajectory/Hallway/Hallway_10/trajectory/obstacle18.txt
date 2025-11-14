@@ -1,0 +1,12 @@
+40 Pedestrian 18 10.70 22.70
+41 Pedestrian 18 10.72 22.73
+42 Pedestrian 18 10.74 22.76
+43 Pedestrian 18 10.80 22.88
+44 Pedestrian 18 10.86 23.00
+45 Pedestrian 18 10.90 23.06
+46 Pedestrian 18 10.94 23.13
+47 Pedestrian 18 10.96 23.17
+48 Pedestrian 18 10.98 23.21
+49 Pedestrian 18 11.02 23.28
+50 Pedestrian 18 11.05 23.35
+51 Pedestrian 18 11.09 23.42

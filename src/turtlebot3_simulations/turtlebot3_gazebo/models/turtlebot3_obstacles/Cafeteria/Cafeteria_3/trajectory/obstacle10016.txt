@@ -1,0 +1,6 @@
+60 Pedestrian 10016 -3.49 -3.49
+61 Pedestrian 10016 -3.49 -3.49
+62 Pedestrian 10016 -3.49 -3.49
+63 Pedestrian 10016 -3.49 -3.49
+64 Pedestrian 10016 -3.49 -3.49
+65 Pedestrian 10016 -3.49 -3.49

@@ -1,0 +1,6 @@
+194 Pedestrian 150 -7.72 -5.34
+195 Pedestrian 150 -7.79 -5.23
+196 Pedestrian 150 -7.85 -5.11
+197 Pedestrian 150 -7.92 -5.00
+198 Pedestrian 150 -7.99 -4.89
+199 Pedestrian 150 -8.05 -4.78

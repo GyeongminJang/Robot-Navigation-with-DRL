@@ -1,0 +1,14 @@
+0 Pedestrian 10004 -0.93 6.05
+1 Pedestrian 10004 -0.93 6.05
+2 Pedestrian 10004 -0.93 6.05
+3 Pedestrian 10004 -0.93 6.05
+4 Pedestrian 10004 -0.93 6.05
+5 Pedestrian 10004 -0.93 6.05
+6 Pedestrian 10004 -0.93 6.05
+7 Pedestrian 10004 -0.93 6.05
+8 Pedestrian 10004 -0.93 6.05
+9 Pedestrian 10004 -0.93 6.05
+10 Pedestrian 10004 -0.93 6.05
+11 Pedestrian 10004 -0.93 6.05
+12 Pedestrian 10004 -0.93 6.05
+13 Pedestrian 10004 -0.93 6.05

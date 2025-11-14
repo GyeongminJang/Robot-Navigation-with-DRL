@@ -1,0 +1,4 @@
+196 Pedestrian 47 13.46 29.71
+197 Pedestrian 47 13.36 29.64
+198 Pedestrian 47 13.27 29.58
+199 Pedestrian 47 13.17 29.51

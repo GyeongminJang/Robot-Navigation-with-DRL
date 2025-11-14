@@ -1,0 +1,12 @@
+12 Pedestrian 11 7.19 0.95
+13 Pedestrian 11 7.09 0.92
+14 Pedestrian 11 6.98 0.89
+15 Pedestrian 11 6.88 0.86
+16 Pedestrian 11 6.78 0.83
+17 Pedestrian 11 6.68 0.80
+18 Pedestrian 11 6.57 0.77
+19 Pedestrian 11 6.47 0.74
+20 Pedestrian 11 6.37 0.71
+21 Pedestrian 11 6.27 0.68
+22 Pedestrian 11 6.17 0.65
+23 Pedestrian 11 6.06 0.62

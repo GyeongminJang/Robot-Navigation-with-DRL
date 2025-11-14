@@ -1,0 +1,12 @@
+70 Pedestrian 20106 -3.65 58.82
+71 Pedestrian 20106 -3.65 58.82
+72 Pedestrian 20106 -3.65 58.82
+73 Pedestrian 20106 -3.65 58.82
+74 Pedestrian 20106 -3.65 58.82
+75 Pedestrian 20106 -3.65 58.82
+76 Pedestrian 20106 -3.65 58.82
+77 Pedestrian 20106 -3.65 58.82
+78 Pedestrian 20106 -3.65 58.82
+79 Pedestrian 20106 -3.65 58.82
+80 Pedestrian 20106 -3.65 58.82
+81 Pedestrian 20106 -3.65 58.82
