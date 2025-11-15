@@ -1,1 +1,1 @@
-# 이 자료가 무엇인지 추가로 설명 예정
+*A collection of trajectory data actually used in experiments.*
