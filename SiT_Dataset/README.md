@@ -1,38 +1,40 @@
-# SiT-Dataset 가공 과정
+# SiT-Dataset Processing Steps
 
-## 1. 맵(Map) 만드는 과정
+## 1. Map Creation Process
 
-1. **원본 맵 추출**  
-   - `Map.json` (예: `CafeStreet.json`, `Courtyard.json`) 등 가공되지 않은 원본 맵 데이터를 확보합니다.
+1. **Original Map Extraction**  
+   - First, obtain the raw map data such as `Map.json` files like `CafeStreet.json` and `Courtyard.json`.
 
-2. **Z값 제거**  
-   - 3D 좌표계 상의 불필요한 Z축 값을 제거하기 위해 `RemoveZ.py`를 사용합니다.  
-   - 이를 통해 2D 형태의 맵 데이터로 변환하며, 소수점 셋째 자리 이하는 버립니다.
+2. **Removing Z Values**  
+   - Use scripts like `RemoveZ.py` to remove unnecessary Z-axis values from the 3D coordinate system.  
+   - This converts the data into a 2D map format and truncates the decimal places beyond the second digit.
 
-3. **파일 포맷 변환**  
-   - 수정된 JSON 파일을 Gazebo에서 사용할 수 있는 형식(`model.sdf`, `model.config`)으로 변환합니다.  
-   - 변환에는 `Converter.py`를 사용하며, polyline 등 경로 정보를 필요한 구조로 변형합니다.
+3. **File Format Conversion**  
+   - Convert the modified JSON files into formats compatible with Gazebo (e.g., `model.sdf`, `model.config`).  
+   - Use Python conversion tools like `Converter.py` to transform polyline and path information into the required structures.
 
-4. **시뮬레이션 환경 적용**  
-   - 변환된 파일들을 Gazebo 시뮬레이터에 import하여 환경을 구축합니다.  
-   - `burger.model`, `map` 파일 등으로 시뮬레이션 맵이 세팅됩니다.
+4. **Simulation Environment Application**  
+   - Import the converted files into the Gazebo simulator to build the environment.  
+   - The simulation map is set up with files like `burger.model` and map files.
 
-5. **맵 빌딩 및 환경 파라미터 지정**  
-   - 빌딩, 장애물, 경기장 등 환경 구성 요소를 반영하여 최종 실험환경용 맵을 구현합니다.
+5. **Map Building and Environmental Parameter Setup**  
+   - Reflect environmental components such as buildings, obstacles, and arenas to finalize the experimental map.
 
-## 2. 트랙(Trajectory) 만드는 과정
+## 2. Trajectory Creation Process
 
-1. **기본 경로 데이터 준비**  
-   - 각 맵별로 `trajectory.txt` 등 텍스트 파일에 10Hz 샘플링으로 ID와 경로 좌표가 기록됩니다.
+1. **Basic Path Data Preparation**  
+   - For each map, path data is prepared in text files like `trajectory.txt` with 10Hz sampling, recording IDs and path coordinates.
 
-2. **경로 후처리**  
-   - `trajectory_processor.py`를 이용해 텍스트 파일을 불러 후처리합니다.  
-   - 경로 및 포인트 좌표 정보를 추출하거나 정제하며, 보행자(`goalbox`), 장애물(`obstacle`) 등의 데이터는 별도 텍스트 파일로 관리됩니다.
+2. **Path Post-processing**  
+   - Use dedicated scripts such as `trajectory_processor.py` to load and process these text files.  
+   - This extracts or refines path points and other details; pedestrian (`goalbox`) and obstacle (`obstacle`) data are maintained in separate text files.
 
-3. **시뮬레이션 내 적용**  
-   - 추출된 경로(Trajectory)는 Gazebo 내 로봇 이동 경로 및 미션 수행 동선에 활용됩니다.
+3. **Simulation Application**  
+   - The extracted trajectory information is used for the robot's movement paths and mission routes within Gazebo.
 
 ---
+> The map creation process follows the sequence: original data extraction → 2D conversion → environmental file conversion → simulation application.  
+> The trajectory creation process flows as: path file preparation → post-processing → integration of environmental data → simulation application.
 
-> 맵 제작은 원본 데이터 추출 → 2D 변환 → 환경 파일 변환 → 시뮬레이션 적용의 순서로 진행되며,  
-> 트랙 생성은 경로 파일 준비 → 후처리 → 환경 데이터 통합 → 시뮬레이션 적용의 흐름으로 구성되어 있습니다.
+## 3. Reference
+
