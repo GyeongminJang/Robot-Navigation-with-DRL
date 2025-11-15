@@ -33,8 +33,10 @@
 
 3. **Simulation Application**  
    - The extracted trajectory information is used for the robot's movement paths and mission routes within Gazebo.
-  
-![Trajectory Creation](https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/trajectory.gif?raw=true)
+
+<p align="center">
+  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/trajectory.gif?raw=true" width="400px" alt="SiT Dataset Map" />
+</p>
 
 ---
 > 1) The map creation process follows the sequence: original data extraction → 2D conversion → environmental file conversion → simulation application.  
