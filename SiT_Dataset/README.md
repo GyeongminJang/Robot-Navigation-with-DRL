@@ -35,8 +35,8 @@
    - The extracted trajectory information is used for the robot's movement paths and mission routes within Gazebo.
 
 ---
-> The map creation process follows the sequence: original data extraction → 2D conversion → environmental file conversion → simulation application.  
-> The trajectory creation process flows as: path file preparation → post-processing → integration of environmental data → simulation application.
+> 1) The map creation process follows the sequence: original data extraction → 2D conversion → environmental file conversion → simulation application.  
+> 2) The trajectory creation process flows as: path file preparation → post-processing → integration of environmental data → simulation application.
 
 ## 3. Reference
 
