@@ -19,6 +19,8 @@
 
 5. **Map Building and Environmental Parameter Setup**  
    - Reflect environmental components such as buildings, obstacles, and arenas to finalize the experimental map.
+  
+![alt text](https://raw.githubusercontent.com/GyeongminJang/Robot-Navigation-with-DRL/media/maps.png)
 
 ## 2. Trajectory Creation Process
 
