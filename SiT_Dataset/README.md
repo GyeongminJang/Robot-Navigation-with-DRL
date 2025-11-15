@@ -35,7 +35,7 @@
    - The extracted trajectory information is used for the robot's movement paths and mission routes within Gazebo.
 
 <p align="center">
-  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/trajectory.gif?raw=true" width="1000px" alt="SiT Dataset Map" />
+  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/trajectory.gif?raw=true" width="800px" alt="SiT Dataset Map" />
 </p>
 
 ---
