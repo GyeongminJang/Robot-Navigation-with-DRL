@@ -1,4 +1,4 @@
-# To express git description with media files.
+# To express git description with media files. (수정 예정)
 
 1. 모든 파일을 다 올린 후 각각의 파일에 대한 설명 추가 예정
    
