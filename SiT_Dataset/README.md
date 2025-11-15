@@ -38,3 +38,4 @@
 
 ## 3. Reference
 
+For more information, please refer to the [SiT Dataset official page](https://spalaboratory.github.io/SIT-Dataset) or the [GitHub repository]((https://github.com/SPALaboratory/SiT-Dataset)).
