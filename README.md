@@ -121,6 +121,7 @@ Left top: outcomes, Right top: critic loss
 <p align="center">
 Left bottom: actor loss, Right bottom: reward
 </p>
+
 ### **1) Learning graph results for the DQN algorithm**
 
 ### **2) Learning graph results for the DDPG algorithm**
