@@ -27,8 +27,8 @@
 </tr>
 <tr>
   <td><p align="center">Hallway</p></td>
-  <td>Courtyard</td>
-  <td>Lobby</td>
+  <td><p align="center">Courtyard</p></td>
+  <td><p align="center">Lobby</p></td>
 </tr>
 </table>
 
