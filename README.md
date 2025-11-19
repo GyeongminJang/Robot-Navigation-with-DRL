@@ -68,7 +68,16 @@ x_t is the state at time t, μ is the value to which the process converges in th
 ## **6. Reawrd Functions**
 All rewards except 𝒓_𝒕𝒆𝒓𝒎𝒊𝒏𝒂𝒍, which is applied once at episode end, are calculated at each step; the final reward is the sum of these elements
 
+<p align="center">
+  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Reward-1.png?raw=true" width="800px"/>
+</p>
+
 1) **DRL-1**: Added distance difference reward and direction alignment reward to prevent ‘unnecessary circular motion in place’ frequently occurring in complex environments
+
+<p align="center">
+  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Reward-2.png?raw=true" width="800px"/>
+</p>
+
 2) **DRL-2**: Resolved circular drift and local optimum issues through rotation suppression, straight-line behavior induction, and strengthened action-specific incentive structure
 
 ## **7. Experiment Procedure**
