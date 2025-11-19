@@ -12,6 +12,10 @@
 ## **2. Simulation Environment Settings**
 * Using ROS2 + Gazebo simulation tools
 * Implementing LiDAR and Odometry on the robot
+<p align="center">
+  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Navigation_System.png?raw=true" width="800px" alt="SiT Dataset Map" />
+</p>
+
 * Applying real indoor environments and moving obstacles using the SiT Dataset
 * Creating three maps: Hallway for training, Courtyard and Looby for testing
 
