@@ -10,12 +10,18 @@
 * Validating model performance in simulations with realistic scenarios using datasets incorporating social interactions.
 
 ## **2. Simulation Environment Settings**
-Using ROS2 + Gazebo simulation tools
+* Using ROS2 + Gazebo simulation tools
+* Implementing LiDAR and Odometry on the robot
+* Applying real indoor environments and moving obstacles using the SiT Dataset
+* Creating three maps: Hallway for training, Courtyard and Looby for testing
 
 ## **3. DRL Algorithms**
-
+* DQN: The first DRL algorithm combining deep learning and Q-learning
+* DDPG: An Actor-Critic-based DRL algorithm for continuous actions
+* TD3: An improved DDPG algorithm enhancing stability with two critics
 
 ## **4. Ornstein-Uhlenbeck Process**
+$x_{t+1} = x_t + \theta(\mu - x_t) + \sigma \cdot \mathcal{N}(0,1)$
 
 
 ## **5. TD3 Parameters**
