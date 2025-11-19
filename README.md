@@ -20,6 +20,14 @@
 * Creating three maps: Hallway for training, Courtyard and Looby for testing
 <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Hallway.png?raw=true" width="400"/> <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Courtyard.png?raw=true" width="400"/> <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Lobby.png?raw=true" width="400"/>
 
+<table>
+<tr>
+  <td><img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Hallway.png?raw=true" width="200"/></td>
+  <td><img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Courtyard.png?raw=true" width="200"/></td>
+  <td><img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Lobby.png?raw=true" width="200"/></td>
+</tr>
+</table>
+
 ## **3. DRL Algorithms**
 * DQN: The first DRL algorithm combining deep learning and Q-learning
 * DDPG: An Actor-Critic-based DRL algorithm for continuous actions
