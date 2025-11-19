@@ -76,6 +76,8 @@ TO= Time Out, TB= Robot Tilt, Dist= Travel Distance
 Travel Distance Unit: [m], Remaining Elements Unit: [%]
 </p>
 
+### **1) Ornstein-Uhlenbeck Process Adjustment (Based on TD3-1)**
+
 
 ## **9. Conclusion**
 * Improved autonomous driving performance of robots using DRL algorithms through adjustments to noise, parameters, and reward functions
