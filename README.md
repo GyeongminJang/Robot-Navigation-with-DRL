@@ -141,3 +141,4 @@ Left bottom: actor loss, Right bottom: reward
 ## **10. References**
 1) [Official paper on DRL robot navigation](https://scifiniti.com/3104-4719/1/2024.0003) or the [GitHub repository](https://github.com/tomasvr/turtlebot3_drlnav.git).
 2) [SiT Dataset official page](https://spalaboratory.github.io/SiT/) or the [GitHub repository](https://github.com/SPALaboratory/SiT-Dataset).
+3) My graduation paper will be uploaded.
