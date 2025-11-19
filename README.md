@@ -18,12 +18,17 @@
 
 * Applying real indoor environments and moving obstacles using the SiT Dataset
 * Creating three maps: Hallway for training, Courtyard and Looby for testing
-* 
+
 <table>
 <tr>
   <td><img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Hallway.png?raw=true" width="300"/></td>
   <td><img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Courtyard.png?raw=true" width="300"/></td>
   <td><img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Lobby.png?raw=true" width="300"/></td>
+</tr>
+<tr>
+  <td>**Hallway**</td>
+  <td>**Courtyard**</td>
+  <td>**Lobby**</td>
 </tr>
 </table>
 
