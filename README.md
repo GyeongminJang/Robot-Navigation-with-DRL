@@ -22,13 +22,18 @@
 
 ## **4. Ornstein-Uhlenbeck Process**
 $$
-x_{t+1} = x_t + \theta(\mu - x_t) + \sigma \cdot \mathcal{N}(0,1)
+*x_{t+1} = x_t + \theta(\mu - x_t) + \sigma \cdot \mathcal{N}(0,1)*
 $$
+**To aid exploration in continuous action spaces, generate smooth noise over time.**
 
-
+1) Max_sigma:
+2) Min_sigma:
+3) Decay_Period:
 
 ## **5. TD3 Parameters**
+*Target Policy Smoothing: Adding random noise to target actions for more robust policy learning and preventing overfitting
 
+*Policy Delayed Update: Updating the Actor network after the Critic network is sufficiently trained to reduce learning instability
 
 ## **6. Reawrd Functions**
 
