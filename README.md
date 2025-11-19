@@ -13,11 +13,12 @@
 * Using ROS2 + Gazebo simulation tools
 * Implementing LiDAR and Odometry on the robot
 <p align="center">
-  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Navigation_System.png?raw=true" width="800px" alt="SiT Dataset Map" />
+  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Navigation_System.png?raw=true" width="800px"/>
 </p>
 
 * Applying real indoor environments and moving obstacles using the SiT Dataset
 * Creating three maps: Hallway for training, Courtyard and Looby for testing
+<img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Hallway.png?raw=true" width="400"/> <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Courtyard.png?raw=true" width="400"/> <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Lobby.png?raw=true" width="400"/>
 
 ## **3. DRL Algorithms**
 * DQN: The first DRL algorithm combining deep learning and Q-learning
