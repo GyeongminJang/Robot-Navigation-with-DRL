@@ -24,16 +24,24 @@
 $$
 *x_{t+1} = x_t + \theta(\mu - x_t) + \sigma \cdot \mathcal{N}(0,1)*
 $$
+<p align="center">
+x_t is the state at time t, μ is the value to which the process converges in the long run, θ is the rate of return to the mean μ, σ is the volatility of the noise term, and “𝒩(0,1)” is a Gaussian random variable.
+</p>
+
 **To aid exploration in continuous action spaces, generate smooth noise over time.**
 
-1) Max_sigma:
-2) Min_sigma:
-3) Decay_Period:
+1) Max_sigma: The maximum noise level applied during the initial exploration phase, representing the magnitude of uncertainty imposed on the action.
+2) Min_sigma: Ensure that noise does not completely disappear even as learning progresses, while maintaining minimal searchability.
+3) Decay_Period: The period during which noise intensity decays from max_sigma to min_sigma.
 
 ## **5. TD3 Parameters**
-*Target Policy Smoothing: Adding random noise to target actions for more robust policy learning and preventing overfitting
+**Target Policy Smoothing**: Adding random noise to target actions for more robust policy learning and preventing overfitting
 
-*Policy Delayed Update: Updating the Actor network after the Critic network is sufficiently trained to reduce learning instability
+**Policy Delayed Update**: Updating the Actor network after the Critic network is sufficiently trained to reduce learning instability
+
+1) Policy_noise:
+2) Policy_noise_clip:
+3) Policy_update_frequency:
 
 ## **6. Reawrd Functions**
 
