@@ -1,11 +1,6 @@
-# Mobile Robot DRL Navigation (수정 예정)
+# Robot Navigagtion with DRL
 
-### A ROS2 framework for DRL autonomous navigation on mobile robots with LiDAR.
-<p float="left">
- <img src="media/simulation.gif" width="400">
- <img src="media/physical_demo.gif" width="216" alt="physical_demo.gif" />
-</p>
-
+### Comparative Evaluation of DRL Methodologies in Environments with Multiple Dynamic Objects of High Dynamic Complexity
 
 # **Table of contents**
 * [Introduction](#introduction)
