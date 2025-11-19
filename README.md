@@ -70,7 +70,13 @@ All rewards except 𝒓_𝒕𝒆𝒓𝒎𝒊𝒏𝒂𝒍, which is applied once 
 
 
 ## **9. Conclusion**
+* Improved autonomous driving performance of robots using DRL algorithms through adjustments to noise, parameters, and reward functions
 
+* Application of the latest DRL algorithm TD3 improved success rate and stability compared to existing methods (DQN, DDPG)
+
+* Demonstrated the ability to enhance robot autonomous driving reliability even in complex and dynamic environments
+
+* Proposed follow-up tasks including application in real-world environments beyond simulation and strengthening social interactions
 
 ## **10. References**
 1) [Official Paper on DRL Robot Navigation](https://scifiniti.com/3104-4719/1/2024.0003) or the [GitHub repository](https://github.com/tomasvr/turtlebot3_drlnav.git).
