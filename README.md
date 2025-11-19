@@ -91,7 +91,9 @@ All rewards except $$𝒓_{𝒕𝒆𝒓𝒎𝒊𝒏𝒂𝒍}$$, which is applied
 5) After 2,000 test episodes, record the evaluation metrics from the log (success rate, timeouts, distance traveled, etc.)
 
 ※ Training Map: Hallway Map
+
 ※ Test Map: Courtyard and Looby Map
+
 ※ Total simulation time: approximately 16 hours for training + 2 hours for testing (with speedup applied)
 
 
