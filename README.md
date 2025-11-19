@@ -130,7 +130,7 @@ Travel Distance Unit: [m], Remaining Elements Unit: [%]
   <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Lobby_Result.png?raw=true" width="800px"/>
 </p>
 
-
+---
 <p align="center">
 Left top: outcomes, Right top: critic loss
 </p>
