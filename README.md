@@ -96,6 +96,13 @@ All rewards except $$𝒓_{𝒕𝒆𝒓𝒎𝒊𝒏𝒂𝒍}$$, which is applied
 
 
 ## **8. Experiment Results**
+
+<p align="center">
+  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Results.gif?raw=true" width="1200px"/>
+</p>
+
+---
+
 <p align="center">
 SR= Success Rate, CW= Static Obstacle Collision Rate, CD= Dynamic Obstacle Collision Rate
 </p>
