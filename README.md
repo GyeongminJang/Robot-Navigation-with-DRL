@@ -66,7 +66,7 @@ x_t is the state at time t, μ is the value to which the process converges in th
 3) **Policy_update_frequency**: Update Cycle for Actor and Target Networks
 
 ## **6. Reawrd Functions**
-All rewards except 𝒓_𝒕𝒆𝒓𝒎𝒊𝒏𝒂𝒍, which is applied once at episode end, are calculated at each step; the final reward is the sum of these elements
+All rewards except $$𝒓_𝒕𝒆𝒓𝒎𝒊𝒏𝒂𝒍$$, which is applied once at episode end, are calculated at each step; the final reward is the sum of these elements
 
 <p align="center">
   <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Reward-1.png?raw=true" width="800px"/>
