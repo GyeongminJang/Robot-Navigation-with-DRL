@@ -17,7 +17,7 @@
 </p>
 
 * Applying real indoor environments and moving obstacles using the SiT Dataset
-* Creating three maps: Hallway for training, Courtyard and Looby for testing
+* Creating three maps: Hallway for training, Courtyard and Lobby for testing
 
 <table>
 <tr>
@@ -43,11 +43,11 @@
 
 ## **4. Ornstein-Uhlenbeck Process**
 
-x_{t+1} = x_t + \theta(\mu - x_t) + \sigma \cdot \mathcal{N}(0,1)
+$$x_{t+1} = x_t + \theta(\mu - x_t) + \sigma \cdot \mathcal{N}(0,1)$$
 
 **(오류 해결해야 함.)**
 
-x_t is the state at time t, μ is the value to which the process converges in the long run, θ is the rate of return to the mean μ, σ is the volatility of the noise term, and “𝒩(0,1)” is a Gaussian random variable.
+$$x_t$$ is the state at time t, μ is the value to which the process converges in the long run, θ is the rate of return to the mean μ, σ is the volatility of the noise term, and “𝒩(0,1)” is a Gaussian random variable.
 
 
 **To aid exploration in continuous action spaces, generate smooth noise over time.**
@@ -92,7 +92,7 @@ All rewards except $$𝒓_{𝒕𝒆𝒓𝒎𝒊𝒏𝒂𝒍}$$, which is applied
 
 ※ Training Map: Hallway Map
 
-※ Test Map: Courtyard and Looby Map
+※ Test Map: Courtyard and Lobby Map
 
 ※ Total simulation time: approximately 16 hours for training + 2 hours for testing (with speedup applied)
 
