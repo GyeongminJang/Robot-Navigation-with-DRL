@@ -69,7 +69,8 @@ All rewards except 𝒓_𝒕𝒆𝒓𝒎𝒊𝒏𝒂𝒍, which is applied once 
 <p align="center">
 SR= Success Rate, CW= Static Obstacle Collision Rate, CD= Dynamic Obstacle Collision Rate, 
 TO= Time Out, TB= Robot Tilt, Dist= Travel Distance
-
+</p>
+<p align="center">
 Travel Distance Unit: [m], Remaining Elements Unit: [%]
 </p>
 
