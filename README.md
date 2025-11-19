@@ -13,7 +13,7 @@
 * Using ROS2 + Gazebo simulation tools
 * Implementing LiDAR and Odometry on the robot
 <p align="center">
-  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Navigation_System.png?raw=true" width="800px"/>
+  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Navigation_System.png?raw=true" width="600px"/>
 </p>
 
 * Applying real indoor environments and moving obstacles using the SiT Dataset
