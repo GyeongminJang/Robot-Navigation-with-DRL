@@ -98,7 +98,7 @@ All rewards except $$𝒓_{𝒕𝒆𝒓𝒎𝒊𝒏𝒂𝒍}$$, which is applied
 ## **8. Experiment Results**
 
 <p align="center">
-  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Results.gif?raw=true" width="1200px"/>
+  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Results.gif?raw=true" width="800px"/>
 </p>
 
 ---
