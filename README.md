@@ -31,9 +31,9 @@ x_t is the state at time t, μ is the value to which the process converges in th
 
 **To aid exploration in continuous action spaces, generate smooth noise over time.**
 
-1) **Max_sigma**: The maximum noise level applied during the initial exploration phase, representing the magnitude of uncertainty imposed on the action.
-2) **Min_sigma**: Ensure that noise does not completely disappear even as learning progresses, while maintaining minimal searchability.
-3) **Decay_Period**: The period during which noise intensity decays from max_sigma to min_sigma.
+1) **Max_sigma**: The maximum noise level applied during the initial exploration phase, representing the magnitude of uncertainty imposed on the action
+2) **Min_sigma**: Ensure that noise does not completely disappear even as learning progresses, while maintaining minimal searchability
+3) **Decay_Period**: The period during which noise intensity decays from max_sigma to min_sigma
 
 ## **5. TD3 Parameters**
 **Target Policy Smoothing**: Adding random noise to target actions for more robust policy learning and preventing overfitting
@@ -45,9 +45,24 @@ x_t is the state at time t, μ is the value to which the process converges in th
 3) **Policy_update_frequency**: Update Cycle for Actor and Target Networks
 
 ## **6. Reawrd Functions**
+All rewards except 𝒓_𝒕𝒆𝒓𝒎𝒊𝒏𝒂𝒍, which is applied once at episode end, are calculated at each step; the final reward is the sum of these elements
 
+1) **DRL-1**: Added distance difference reward and direction alignment reward to prevent ‘unnecessary circular motion in place’ frequently occurring in complex environments
+2) **DRL-2**: Resolved circular drift and local optimum issues through rotation suppression, straight-line behavior induction, and strengthened action-specific incentive structure
 
 ## **7. Experiment Procedure**
+
+**The entire process of one simulation run**
+
+1) Select and execute one DRL algorithm (DQN, DDPG, TD3)
+2) Observe step: 200,000 steps
+3) Subsequently train the robot for 8,000 episodes
+4) After training, test the robot for 2,000 episodes
+5) After 2,000 test episodes, record the evaluation metrics from the log (success rate, timeouts, distance traveled, etc.)
+
+※ Training Map: Hallway Map
+※ Test Map: Courtyard and Looby Map
+※ Total simulation time: approximately 16 hours for training + 2 hours for testing (with speedup applied)
 
 
 ## **8. Experiment Results**
