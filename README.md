@@ -140,10 +140,21 @@ Left bottom: actor loss, Right bottom: reward
 
 ### **1) Learning graph results for the DQN algorithm**
 
+<p align="center">
+  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/DQN_Graph.png?raw=true" width="800px"/>
+</p>
+
 ### **2) Learning graph results for the DDPG algorithm**
+
+<p align="center">
+  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/DDPG_Graph.png?raw=true" width="800px"/>
+</p>
 
 ### **3) Learning graph results for the TD3 algorithm**
 
+<p align="center">
+  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/TD3_Graph.png?raw=true" width="800px"/>
+</p>
 
 ## **9. Conclusion**
 * Improved autonomous driving performance of robots using DRL algorithms through adjustments to noise, parameters, and reward functions
