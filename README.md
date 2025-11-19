@@ -2,40 +2,15 @@
 
 ### Comparative Evaluation of DRL Methodologies in Environments with Multiple Dynamic Objects of High Dynamic Complexity
 
-# **Table of contents**
-* [Introduction](#introduction)
-* [Installation](#installation)
-  * [Docker Installation (recommended)](#docker-installation-recommended)
-  * [Manual Installation](#manual-installation)
-* [Training](#training)
-  * [Loading a Stored Model](#loading-a-stored-model)
-  * [Optional Configuration](#optional-configuration)
-  * [Utilities](#utilities)
-* [Physical Robot](#physical-robot)
-* [Troubleshooting](#troubleshooting)
+# **Backgrounds and Purposes**
 
-# **Introduction**
+* As the importance of autonomous robots grows, there is a demand for safe and reliable path planning in complex environments.
+* Existing navigation algorithms have limitations in handling environmental changes and interacting with pedestrians.
+* Utilizing the latest deep reinforcement learning (DRL) algorithms to improve safety and success rates compared to existing methods.
+* Validating model performance in simulations with realistic scenarios using datasets incorporating social interactions.
 
-This repository contains a ROS2 and PyTorch framework for developing and experimenting with deep reinforcement learning for autonomous navigation on mobile robots. Models are trained in simulation and evaluated either in simulation or on a real-world robot. The robot model used in this repository is based on the turtlebot3. However, the framework can be used for any robot model that can provide LiDAR and odometry information and work with linear velocity messages.
+# **Simulation Environment Settings**
 
-Below are a few examples of what the current framework can be used for:
-
-* Train, store, load, and evaluate a navigation agent in simulation in different environments
-* Deploy an existing model on a real robot to perform navigation and obstacle avoidance
-* Evaluate the effect of different hyperparameters on training time and performance
-* Experiment with additional capabilities (backward motion, frame stacking)
-* Implement your own DRL algorithm (currently includes: DQN, DDPG, TD3)
-
-# **Installation**
-
-# **Docker Installation (Recommended)**
-
-In order to greatly simplify the installation process and get up and running quickly it is recommended to use Docker. Docker can be seen as a lightweight VM that allows you to run applications within an isolated container making it easy to install all of the dependencies.
-
-First, [install docker](https://docs.docker.com/engine/install/ubuntu/)
-
-Now, in order to use your GPU within the docker container to run the machine learning models, we need to complete a few extra simple steps.
-You should already have the nvidia driver installed on your system.
 
 
 ## **Nvidia Container Toolkit**
