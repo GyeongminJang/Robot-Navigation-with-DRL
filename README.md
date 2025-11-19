@@ -33,6 +33,9 @@
 </table>
 
 ## **3. DRL Algorithms**
+<p align="center">
+  <img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/DRL.png?raw=true" width="600px"/>
+</p>
 * DQN: The first DRL algorithm combining deep learning and Q-learning
 * DDPG: An Actor-Critic-based DRL algorithm for continuous actions
 * TD3: An improved DDPG algorithm enhancing stability with two critics
