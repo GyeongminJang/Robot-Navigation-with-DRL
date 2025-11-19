@@ -26,9 +26,9 @@
   <td><img src="https://github.com/GyeongminJang/Robot-Navigation-with-DRL/blob/main/media/Lobby.png?raw=true" width="300"/></td>
 </tr>
 <tr>
-  <td>**Hallway**</td>
-  <td>**Courtyard**</td>
-  <td>**Lobby**</td>
+  <td><p align="center">Hallway</p></td>
+  <td>Courtyard</td>
+  <td>Lobby</td>
 </tr>
 </table>
 
