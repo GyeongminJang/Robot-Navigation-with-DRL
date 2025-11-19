@@ -78,6 +78,25 @@ Travel Distance Unit: [m], Remaining Elements Unit: [%]
 
 ### **1) Ornstein-Uhlenbeck Process Adjustment (Based on TD3-1)**
 
+### **2) TD3 Parameters Adjustment (Based on TD3-1)**
+
+### **3) Results on the Courtyard map after adjustment**
+
+### **4) Results on the Lobby map after adjustment**
+
+
+<p align="center">
+Left top: outcomes, Right top: critic loss
+</p>
+<p align="center">
+Left bottom: actor loss, Right bottom: reward
+</p>
+### **1) Learning graph results for the DQN algorithm**
+
+### **2) Learning graph results for the DDPG algorithm**
+
+### **3) Learning graph results for the TD3 algorithm**
+
 
 ## **9. Conclusion**
 * Improved autonomous driving performance of robots using DRL algorithms through adjustments to noise, parameters, and reward functions
