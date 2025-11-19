@@ -21,7 +21,10 @@
 * TD3: An improved DDPG algorithm enhancing stability with two critics
 
 ## **4. Ornstein-Uhlenbeck Process**
-$x_{t+1} = x_t + \theta(\mu - x_t) + \sigma \cdot \mathcal{N}(0,1)$
+$$
+x_{t+1} = x_t + \theta(\mu - x_t) + \sigma \cdot \mathcal{N}(0,1)
+$$
+
 
 
 ## **5. TD3 Parameters**
