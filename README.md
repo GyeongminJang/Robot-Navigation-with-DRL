@@ -1,4 +1,4 @@
-# Robot Navigagtion with DRL
+# Robot Navigation with DRL
 
 ### Comparative Evaluation of DRL Methodologies in Environments with Multiple Dynamic Objects of High Dynamic Complexity
 
